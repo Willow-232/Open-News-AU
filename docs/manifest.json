@@ -1,0 +1,13 @@
+{
+  "name": "Open News AU",
+  "short_name": "News AU",
+  "description": "Open-source daily news from reputable sources across the spectrum. Australia first, then the world.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f5f1",
+  "theme_color": "#0f3d3e",
+  "icons": [
+    {"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}
+  ]
+}
