@@ -1,1 +1,3766 @@
-{"generated": null, "regions": {"australia": [], "world": [], "factcheck": []}, "sources": []}
+{
+ "generated": "2026-11-14T09:00:05.615218+00:00",
+ "regions": {
+  "australia": [
+   {
+    "headline": "Man shot dead in Perth's south, triggering major police response",
+    "summary": "Homicide detectives are investigating after a 44-year-old man was shot dead at a rural property in Perth's south this morning.",
+    "latest": "2026-11-14T06:27:27+00:00",
+    "source_count": 2,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Man shot dead in Perth's south, triggering major police response",
+      "link": "https://www.abc.net.au/news/2026-11-14/wa-police-serious-incident-keysbrook-perth/107386030",
+      "published": "2026-11-14T01:41:15+00:00",
+      "summary": "Homicide detectives are investigating after a 44-year-old man was shot dead at a rural property in Perth's south this morning.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     },
+     {
+      "title": "Police probe after man shot dead",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPLU50dTV5Z3hUTjBLeVlqZlhCdUVHQ09rN0xYXzVBajFWdktfQThoUzBGakUzUXpnbUtwR2RNY1JmTW5yNzc5aEFqVjlVWmNUVnBNUHlPZ0pWazktOVpHN0JMaGdwcTVjOXB1cTR3ZXNvYUduWDVSNTdZY005UmVteEpuam5oZVJVc2F3YlAxVlJTUVNjeXZ2andFeHNocHczSkIxTkF6bG9Sck42R0xqQkw1TE9rR0xxTXhWdlgwaTY1cmRlRjhiemtXenRHSm5SUFU3Xw?oc=5",
+      "published": "2026-11-14T06:27:27+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Climate activists beat attempted police ban on port protest",
+    "summary": "",
+    "latest": "2026-11-14T08:36:44+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Climate activists beat attempted police ban on port protest",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTUVEU2N4cFI1SnBFVlp3UnhyZDRfbE13cGthT3BvV1Q1eHBBOUFhNWoxTktTR09lUnQ3U3dOM3FuZXc3bFZMTEdkZjNZNHBDajZrNlhKTXNpMDJoaExfVkZyejk1X1hVUE5hRDBhcEg1ejc1cDBFTVI3X3V4Ry1VQ0Vsek5QTjVSU1NTRzFXR0doRWd4SHNmUUc0c2dPTVIta2FhQTRhWkhxOTRCY2VwYzVOYUJaZEc3czhoN2xrWXVJa2FBY0s2UGhzMTVRWkxmRElvcWRFVnF1MUhHOWVMVG1yMy1WbzlhOW1idFNtcEhmQQ?oc=5",
+      "published": "2026-11-14T08:36:44+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Heat hammer Hurricanes to hand WBBL champions sixth straight loss",
+    "summary": "The Hobart Hurricanes' WBBL defence falls further into tatters with a humiliating 10-wicket loss to the Brisbane Heat.",
+    "latest": "2026-11-14T08:34:29+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Heat hammer Hurricanes to hand WBBL champions sixth straight loss",
+      "link": "https://www.abc.net.au/news/2026-11-14/hobart-hurricanes-hammered-by-brisbane-heat-in-wbbl/107386442",
+      "published": "2026-11-14T08:34:29+00:00",
+      "summary": "The Hobart Hurricanes' WBBL defence falls further into tatters with a humiliating 10-wicket loss to the Brisbane Heat.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Jack Derwin",
+    "summary": "",
+    "latest": "2026-11-14T08:23:20+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Jack Derwin",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9aNzhjWFVOYVhYMy1TZ2I4aW1lMV9FUGpvU0FrUk11cUJvajV0R0xXakthdzdiQ25FS0dQRHh1MWk1azVfWnNhYlpEbElKRE43d0xV?oc=5",
+      "published": "2026-11-14T08:23:20+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Politicians get a free pass from Bondi antisemitism inquiry",
+    "summary": "",
+    "latest": "2026-11-14T08:22:47+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Politicians get a free pass from Bondi antisemitism inquiry",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNHY3UVl0Q3BVMC11b29Ya2RlVXpYRFU0eFh4WmIyUEpOTTQzMWU1bGtfdTkzY2hkR0p5enRIX2dyRjFWdlR3anFWY2tPMWFMeEZNNUVUWTlLZk1NQzllb2VWYkY0RE5vNEhadWlBanRsT3ZBcThaSnlDcUdKdVkxQzh4aHMtczIzTjBJSDdhTFE5SnNjTXJYMlJMeXhSSXEwaVgxYjBuTng2VlE2LVlRZHM2dEFhTzJTdGF2b2xiYXhyWGtmcjZnaEZGMVdLOGZtUUhKZDVWNGNzSWtld3pucHNaRzhqQlpfM0pxdFRfT0xBbTBtMW1hR3ZjX3RLZw?oc=5",
+      "published": "2026-11-14T08:22:47+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Topic | Firmus | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-14T08:19:20+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Topic | Firmus | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBpOUJsN3RXenpxUEZLeG9HdlNUemFKa1NuZUVVMEJGbGx0Ynh6TzQ5eEVVWW4xWUN6Zm4yLUNmendKNHdJRVM5aWRmOWRPQQ?oc=5",
+      "published": "2026-11-14T08:19:20+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Royal commissioner lets PM and his team off the hook",
+    "summary": "",
+    "latest": "2026-11-14T08:02:26+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Royal commissioner lets PM and his team off the hook",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNV2EzTS1vQ2NNZDNBZE1JVFlneEJvOFNac0NtTk9PNjB3VV9GcG9keUxBcnU0bWxpdTJRMlRzd0FLSXFfelZqczhKUXRuMDNEVUwyRVB0VnNIR2hISHVqUHFLLWlDdEZ6THIxb1BlX0twYThGcU9jaEpwcmFnbHV1SGZ4N2s3UE1rYXNrR2VwTzcwM0JUejNUSGYwQTJOSmNXREk3cm1uMER4X0hUU0djZTFaVmcxWkxlbjc2cURpcXNRbklzYnE4WVFlWklTQ05PM2tKZVhBaS1kdmU5VU04VXFJYUg5Wjd5MmFSenhNWGk5b2hDcWo2STRlNkotN1NxZTMyaUxxQWZmbGxwZ2FlUFVYMFU?oc=5",
+      "published": "2026-11-14T08:02:26+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Distressing scenes for Cats ruck as Swans progress to maiden preliminary final",
+    "summary": "Sydney has advanced to a first-ever AFLW preliminary final with a three-point victory over Geelong, but the semifinal is marred by a concerning head knock to Cats ruck Piper Dunlop.",
+    "latest": "2026-11-14T07:10:53+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Distressing scenes for Cats ruck as Swans progress to maiden preliminary final",
+      "link": "https://www.abc.net.au/news/2026-11-14/geelong-cats-piper-dunlop-stretchered-off-aflw-semifinals/107386422",
+      "published": "2026-11-14T07:10:53+00:00",
+      "summary": "Sydney has advanced to a first-ever AFLW preliminary final with a three-point victory over Geelong, but the semifinal is marred by a concerning head knock to Cats ruck Piper Dunlop.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Flight Animation Shows Air Traffic Thinning Out Amid US Ground Stop",
+    "summary": "",
+    "latest": "2026-11-14T07:10:52+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Flight Animation Shows Air Traffic Thinning Out Amid US Ground Stop",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONTBzbEVPUkJrM1RFR0RTOXA3V3d3RzMtci02ZnIyczJaSWhLdXl6WW04bkxZZTZxcVU2QzdJOEFGTUJHMjcxZXY1Q195cVVPVGVWZWZGNV9RNU1BRjhjMUJXUkJ5d3hzRWJvaEFiOFBSSWVFTHZkMkZ2UWZYT1ZpSFcxVXlVb0FpUkVUVGRRa3k0YU9sM1d2RXRYNmNDNTBib2pqUVJ2YkR2NGRMOEpPR0hmWVVybUJxZ1lOd0NvSXY2RmZrbWJXODVDS2xYMlVDUmdWa3BvamwwX21O?oc=5",
+      "published": "2026-11-14T07:10:52+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Rebecca Pike",
+    "summary": "",
+    "latest": "2026-11-14T07:02:08+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Rebecca Pike",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmUXk5ZEozZmxDNTVaTlFhTnlHeEY0YXFVaVVtY0dNb2ktM0Z0cDlqTzdubTRpUEEtLVFSVWdJX0lsOWQ5dF8wbmFCbXloV2tQb2xlZw?oc=5",
+      "published": "2026-11-14T07:02:08+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Private Markets | Private Equity, Venture Capital and Private Credit News | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-14T07:00:03+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Private Markets | Private Equity, Venture Capital and Private Credit News | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hdFdXSzZoZTVwU09XNnBIU3MwTDl5dmIwZlZPNDRHODFnMzRxR1JyUEVCQnI5TGQ4bEN5Mlo0UFdGdXBmaDYyeExjWlFnbk04clJtNGNn?oc=5",
+      "published": "2026-11-14T07:00:03+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Topic | AFR Interviews | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-14T06:52:03+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Topic | AFR Interviews | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNSTJ2QXNPdUhkWnRMVklmeDYzUHFvNnBjb2RlSllyY1FwVHpFeE1LQ3BQQlZmY1JVczRmY3NDZkxndW1KRWh2Uk1LX214UkI5UV9pWllWVFA?oc=5",
+      "published": "2026-11-14T06:52:03+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Topic | Fair Work Commission | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-14T06:41:57+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Topic | Fair Work Commission | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCZUhQRDl0cGJUV0NVSHhqamZzVk0xS25qcTlnSkZCc3lMWDl4MVN4UDVSMUtpWkV6Smd4TjlMMEREalBRMDJFWm1JUjV1SXQxVDB4bWp3TUltQ3BFMWxrNA?oc=5",
+      "published": "2026-11-14T06:41:57+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "US air traffic outage delays flights at Mexico’s Cancun airport",
+    "summary": "",
+    "latest": "2026-11-14T06:41:24+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "US air traffic outage delays flights at Mexico’s Cancun airport",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRTM2dEE5WEtPOWZfYzZlNnVLV3V4M09ZaUhJSDdIeF9YWGJoOE9TenVvX1lQeTNZbTNkeHNlaEZ3aDIwM2NYcmR4aUVGRUR1QlNwYzRuVzJYWUk1RVY4M3h0bXpETi1pdkFSTmotWTV0VUJzcFd3Vno3OGJGUHNsTmpZMHRRVWsxdUtkZ3VKeFBKV0NoLVprRU8zUDg2NTJJQ2VTd1dTM0otMDY3Nm1XcW8tN18wUWVPdERLSWdUUlF4ZnlDWG1hWlNjbW1GUkdUUXVxUmh3?oc=5",
+      "published": "2026-11-14T06:41:24+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Maani Truu",
+    "summary": "",
+    "latest": "2026-11-14T06:35:55+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Maani Truu",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KeGV2NG5FUmdjR0hXdVJnMWx4OHNhM2hoR3EwUldRQU1GNXdxeFZMdm02YUtBeTRTdEU4WGNHdURFa2I0RTVWbGd3X2hEeUlYZ2c?oc=5",
+      "published": "2026-11-14T06:35:55+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Sian Powell",
+    "summary": "",
+    "latest": "2026-11-14T06:35:55+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Sian Powell",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NMThLaU9HRmJyUmE2TEIxckxjdnEwU0ZhUjE3MFpvZkQ2T0kyQS1ITlVwMWZIZkwwWVhKT0hLN2hFWElIdmJrVXl6dnNPWUhhSDlN?oc=5",
+      "published": "2026-11-14T06:35:55+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "‘I may lose my mind’: Frustrated travelers stuck in US flight havoc",
+    "summary": "",
+    "latest": "2026-11-14T06:25:25+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "‘I may lose my mind’: Frustrated travelers stuck in US flight havoc",
+      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPNUd2UkZzQW4xdXAxal9yQVJLV2FIVzNxaGZqcHlWTzdrTEpJWmptN0JQRmQzTmFxSzB0ZjlMeEpBTlotOW5WX0pwZTJEMVkyRnRNV1JqN21ObDJhenNOMzZTdGJIaVFXUENaSVpWcWhDbm03SDVWNzQ2UjVIOS1CQnR4UU92WnJVS0dTTUVYeEtZWUFvTEpUeGlwTV9PQm52eDE2S0xUMTdneU9ZbDNtSFRHMWdacDJYNVpYSDBEdkQ2OW5tMk55WWdMREtpQUZidEhOcHpmaTBadEFLTElJTFVBaHlmUktVNmxvekZsUQ?oc=5",
+      "published": "2026-11-14T06:25:25+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+    "summary": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small…",
+    "latest": "2026-11-14T06:19:04+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Microsoft ‘deeply sorry’ for global outage that could have billion-dollar impact on Australia",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/14/microsoft-deeply-sorry-for-global-disruption-that-could-have-billion-dollar-impact-on-australia",
+      "published": "2026-11-14T06:19:04+00:00",
+      "summary": "Experts say disruption exposes ‘Australia’s reliance on foreign technology’ as software giant says services being restored Get our breaking news email , free app or daily news podcast The Microsoft outage could be a disaster for the Australian economy that forces some small…",
+      "source": "Guardian Australia",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Father Christmas greeted by estimated 335,000 at Adelaide pageant",
+    "summary": "Skies were grey but enthusiasm was as avid as ever, as Father Christmas arrived in Adelaide in typical style in front of a crowd estimated to exceed 300,000 along the route of the annual pageant.",
+    "latest": "2026-11-14T06:08:43+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Father Christmas greeted by estimated 335,000 at Adelaide pageant",
+      "link": "https://www.abc.net.au/news/2026-11-14/father-christmas-arrives-in-adelaide-at-annual-christmas-pageant/107385880",
+      "published": "2026-11-14T06:08:43+00:00",
+      "summary": "Skies were grey but enthusiasm was as avid as ever, as Father Christmas arrived in Adelaide in typical style in front of a crowd estimated to exceed 300,000 along the route of the annual pageant.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Appendix 3H - Notification of cessation of securities",
+    "summary": "",
+    "latest": "2026-11-14T06:03:54+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Appendix 3H - Notification of cessation of securities",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNOEJvVVJXNjZXYkpnZ1FyRlUyRzNEN05DSjNPejQzTExDOUVQbnB4N0F3b1NfLVAtM3hDaGVOOG5pUVhodGI4dFlWd3pQdWRfYTNNX2RnbWhoNDVXS3FDWXZWU2twcU5fTDlub0ppV0hGb05wODRSV0RKaGQxMGt5WVdiX18yYWRCSy11ck82cw?oc=5",
+      "published": "2026-11-14T06:03:54+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "‘Out of nowhere’: Swimmer struck by freak lightning on NSW Central Coast",
+    "summary": "",
+    "latest": "2026-11-14T05:56:34+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "‘Out of nowhere’: Swimmer struck by freak lightning on NSW Central Coast",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmIxUWNYbThOY0RrRlhzdXlvNFZPb2NMVEM5YVBzYVdZTGlBTXNfa25sYVdOcmU2S3dER0ttUlFJNm1oQmNrU1kyeUxfYWZpblp1TVFvcjEwcVlucVRQQ2JOZnVHN3hZM09TenZtWDc5VzNlWURJbE1JN2Y1TDdQbVJyb0lMRFRHSFRVZktVM3NIM3oxeEZVcUhsMGFYZWhsZ0JNQkt4c1NFUzM1SEFDby1NRHJnZTE1QkpBNzFvVEg3NzJfNUVOazU4elRpZl9HeUR1OTB3?oc=5",
+      "published": "2026-11-14T05:56:34+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Topic | Andy Burnham | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-14T05:25:45+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Topic | Andy Burnham | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5TWnh2d2JEd01xM3dfRVNQbm1rQUl6R2QxZ3F5U09TTGw3M3RCdEVXa0M5VXZ3SzdXd0hvclFZLWdPZTJxOTJEN3FUeGNRQThCS2lBRVJMUWE1aFQ3Y3ZPaE9R?oc=5",
+      "published": "2026-11-14T05:25:45+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "‘Even bigger’: Millions brace for wild storms",
+    "summary": "",
+    "latest": "2026-11-14T05:25:07+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "‘Even bigger’: Millions brace for wild storms",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMldLdVh1TlNNSzhveVRIMjBQVlF1MC1Ca3p5VG4wZVowXzhUTy1iX2ZNdDdZMllUbV8teFprUXpxeng4RlF5N1RyQm9OdGdaQzRRd2VnQVNoRklqRUN6VTVLZEhrR0RZT1Z6SWoyNzNkMVFJY0NwY1lzNks2LThqS3NBNE5uaGtmTU9vODJWVHp0dk1NY2RwMGNwUk15SlJkdnZxVXNkWXlfQWhjVlRnMG1iRWRKN0FSaWdpTmdoSmgzWnhsVVlCVGgtVjVEQ1NfN1B1UzdxemdWeUsxMkxpb2NSOXA?oc=5",
+      "published": "2026-11-14T05:25:07+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Trump, Xi, Putin to hold historic meeting in China: White House",
+    "summary": "",
+    "latest": "2026-11-14T05:22:39+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Trump, Xi, Putin to hold historic meeting in China: White House",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ1k3dUI2TlptbWIwbFh2RVk3cXdMREtzaXdfdzJfNGhidlUtcEs1V0lpekNtZHRKSXFTelR0b21UZTFfRUFpc0dvOC1TbC1TQXFNUnQ3VnVqQVN1SUNwdlVjZnMtTmdzS01UVENma1F5SzVMR0Fyck85SlVERzZmUHRleG93UmxYWldCb2FuRDJYSUhsYlZYaUdiSXdzOWtpbFNpUEtQdi1PaHNMUjh2cDFEUUhaTDZ4Vm9FU18yRlZGZ2VtSDRmcjhvQlliSkRubHhBOHhJSGlUN1UtUHcwLUVFVkFPNFZSdHc?oc=5",
+      "published": "2026-11-14T05:22:39+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Lyon helps lead NSW to victory",
+    "summary": "",
+    "latest": "2026-11-14T05:21:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Lyon helps lead NSW to victory",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkNEOGpjSHZObmlsTWRDQ0RsU04yNnk2YVpVTnJKQzFNTlg5X3h4Z29BYXdZNkc1RUJaTWQ5UG9YbldlaE5nOFlCU3lKQUpLS0NpY2ZqZ2dOY24zRlBCT3JvVjlJTjlJNE82VGVoQXNfRi1IN1g2XzdiNDJDWl95VENIdFdDcUtWLXhfbU1xQS16ZGZTWkRJV3FOZ0YwYk4yZTNVd3FRWFZPZ0JhTVN3ZnR4RDd0eDg?oc=5",
+      "published": "2026-11-14T05:21:00+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Warner claims of CA ‘cover up’",
+    "summary": "",
+    "latest": "2026-11-14T05:20:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Warner claims of CA ‘cover up’",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYS1OM0pMWm8tZG4zbWkwMFBIUV9oX3gzRkVLR3g4aVAyTjl4dzZSRVdWeTFJYnRNVk9OMnlTSXhpTDh0UU1hdFNSNGtCNThMN3NIX25NWVpBcmNwQjRqNWVRUlFCblFGa2tjeVhKY3VlaEI4MFBULV9zenJaWmFWejVUWVpCZFlSaWJHYkFZMW9qSTNhMzk5SUhuUE53cV80NlRaQWQ3a0ZudW1EYS1CdURDdUI?oc=5",
+      "published": "2026-11-14T05:20:00+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Australia's newest fast-bowling sensation tipped for big things from a young age",
+    "summary": "From an enthusiastic kid to a teenage tearaway, Mahli Beardman's talents were spotted early as a junior cricketer in regional WA.",
+    "latest": "2026-11-14T05:17:48+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Australia's newest fast-bowling sensation tipped for big things from a young age",
+      "link": "https://www.abc.net.au/news/2026-11-14/mahli-beardman-junior-cricket-celebration/107386108",
+      "published": "2026-11-14T05:17:48+00:00",
+      "summary": "From an enthusiastic kid to a teenage tearaway, Mahli Beardman's talents were spotted early as a junior cricketer in regional WA.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Newcastle climate protest goes ahead, no arrests made",
+    "summary": "Activism group Rising Tide says more than 900 people registered to take part in its paddle-out on Newcastle Harbour, near the channel that leads to the world's largest coal port.",
+    "latest": "2026-11-14T05:10:49+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Newcastle climate protest goes ahead, no arrests made",
+      "link": "https://www.abc.net.au/news/2026-11-14/rising-tide-paddle-protest-newcastle-coal-exports/107386226",
+      "published": "2026-11-14T05:10:49+00:00",
+      "summary": "Activism group Rising Tide says more than 900 people registered to take part in its paddle-out on Newcastle Harbour, near the channel that leads to the world's largest coal port.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+    "summary": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from Sydney airport were grounded or delayed on Saturday after…",
+    "latest": "2026-11-14T04:56:06+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "US-bound flights out of Australia delayed after telecommunications outage grounded American planes",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/14/us-bound-flights-out-of-australia-grounded-as-telecommunications-outage-affects-american-travel",
+      "published": "2026-11-14T04:56:06+00:00",
+      "summary": "Sydney and Melbourne airports say flights were affected by now-lifted ban on departures in US US flight outage – live updates Get our breaking news email , free app or daily news podcast Some US-bound flights from Sydney airport were grounded or delayed on Saturday after…",
+      "source": "Guardian Australia",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Hundreds take to water for Newcastle coal port protest despite attempt by NSW police to stop them",
+    "summary": "About 600 Rising Tide activists were in the water at Newcastle port, with hundreds more onshore Get our breaking news email , free app or daily news podcast A climate group has overcome efforts by police and the New South Wales government to stop a protest at the world’s largest…",
+    "latest": "2026-11-14T04:52:34+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Hundreds take to water for Newcastle coal port protest despite attempt by NSW police to stop them",
+      "link": "https://www.theguardian.com/environment/2026/nov/14/rising-tide-protest-newcastle-coal-port-blockade-nsw-police-ntwnfb",
+      "published": "2026-11-14T04:52:34+00:00",
+      "summary": "About 600 Rising Tide activists were in the water at Newcastle port, with hundreds more onshore Get our breaking news email , free app or daily news podcast A climate group has overcome efforts by police and the New South Wales government to stop a protest at the world’s largest…",
+      "source": "Guardian Australia",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "NSW Open set for thrilling finish after gruelling third round",
+    "summary": "",
+    "latest": "2026-11-14T04:37:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "NSW Open set for thrilling finish after gruelling third round",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZC1MWGtXQk1UVWlpR3pUVTF3VHBYSmJtaWZIalNjTlBpRWVjTkFWa3Awem9MMDRJTE5iLVhUNElBV3F3eXEtSUhReWt2OEIyMlZxNE1GbEl0Y193QU02M3d2SXBaS0hMVzlHbUVMczhXazVESlMySUtJU1dIR1o5NS1JUlQ1bGdjakJqeF9jdUs2Z1NQeTVuZUVXZzJEYWE2ZkJhYXoyRG44b2JOQjRIeU1fd05OZlNjMHlWZ0F0UkVFUEdxSGVFeTJiX3lQUjc3R1VrSGJnVU5BdEpyRWF0UXRPUkVIa2FyZEE?oc=5",
+      "published": "2026-11-14T04:37:00+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Rich List - The definitive list of the richest men and women in Australia | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-14T04:21:15+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Rich List - The definitive list of the richest men and women in Australia | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPYnhvR0Ztd2psczkwRXc5RmxXN2pMM2dZNGhSckZDajVxRldJemtBZTE4VEpBWHBya1JCb3JHQjdoN0o4bzllMHFzRUxrVzEtRTRYVGw0dl8wcnp4ZUJ0ZHZZUm5fd2JSU0g3cWx6YTBXRzE2ZUZSNlNET0xTVmQtNVV0U1Zya0NpaUhBUk5tWkRrcGMxVWd1Q0taT2VtY0RqVVotRWtEVmt3TEFBTDRRQWFVcW9GVFZCX3NKRGVVQXdsUGcyOWI4cE9KRlF4MU9HZEF5U0Y3ak14ZGRNN1RnN3h4WTJCV2s?oc=5",
+      "published": "2026-11-14T04:21:15+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Flights grounded across US after air traffic communications outage",
+    "summary": "",
+    "latest": "2026-11-14T04:19:20+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Flights grounded across US after air traffic communications outage",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOHdsQjZ2NEZLZGN2bFZPOW85MUkxQ3Eybmd2M0hlQ0s1Unh0V3dJYThPZlZ2Zl9QZTY4LU51STJRZjVBaTdqTXgxX0tPTTNXaF9UaklKTzM1eFF5RWFYMUFOTjNpZEFDNkk3UDFlZEoyaE1tLTdJRUdEOU83ZndDSVlNOE1CY0h1d2VJWXkyRnRNdER2UTVQbUxKUU0yWXZmRml0ZDhkZjFiSGR5THN4bnhqbllTaDV3UjNHaUZMeVNfakJkSXhOeXU3Y1JrOFRnYU4yTXd2Sk1KOHc?oc=5",
+      "published": "2026-11-14T04:19:20+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Camping, sightseeing booking portal disabled while data breach investigated",
+    "summary": "The ACT government says it has contacted around 6,000 customers, alerting them to potential scam activity on a national park booking site.",
+    "latest": "2026-11-14T04:17:12+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Camping, sightseeing booking portal disabled while data breach investigated",
+      "link": "https://www.abc.net.au/news/2026-11-14/campers-personal-data-compromised-via-bookeasy-platform-hack/107386186",
+      "published": "2026-11-14T04:17:12+00:00",
+      "summary": "The ACT government says it has contacted around 6,000 customers, alerting them to potential scam activity on a national park booking site.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Enforcing immigration laws makes migrant communities ‘the safest’",
+    "summary": "",
+    "latest": "2026-11-14T03:50:27+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Enforcing immigration laws makes migrant communities ‘the safest’",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUWs1T3NBMHdiX1lKVHp3VWliU0ZwU2t1SkRtSFBJQktJbVRHUUE1cnlwZkVObmtBQWZwRHp6YndURFBJbXV3SGJQY1RLR2dnWWdpZEI5UkxQWUVBSjBVWWVUMkhEQ0laZzRSWWpQem1ETWN0Ty10aGRDdFF6TDFDYlpQY210amNMRmZ0UWVlVmhaNVd5bnhkOFc5Vk9sTDRVWWFUOHJhTENnNk1paHJwZ1VVOW92SDRtendscDRyUEkxaUlXckxINDI0aUNYc0lUeXJZUF9nQQ?oc=5",
+      "published": "2026-11-14T03:50:27+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Former honey trap spy recounts her experiences",
+    "summary": "",
+    "latest": "2026-11-14T03:46:10+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Former honey trap spy recounts her experiences",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNem9FYjQzcnVwS0pSMGdtUkdsYUZua0NTQVl1VFoxQUFSRmhJeGJJdXhvaTZaQngzNzRVOFVtUzN6SGlIOXlkaGpZN2RNVHlSS0FVTlNUSUkzc2E3VzFkaHZxd2twLWdhbWY1dE40MnJIYnZoNXZCYllRakxNenR0SzhoZzdpZ01HeEJ3WWs3eF9NbWpTRGY4MW5rbVFQYWhrOC1oNERWMW9TdFhjbWUyRVhVS1g2ZU44ZVFwVGU2NjI?oc=5",
+      "published": "2026-11-14T03:46:10+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Jensen Huang’s affair with suspected spy would’ve involved an ‘emotional dependency bond’",
+    "summary": "",
+    "latest": "2026-11-14T03:45:43+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Jensen Huang’s affair with suspected spy would’ve involved an ‘emotional dependency bond’",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSWkwMDM2eHRHcmRBa1UtSnV2S25GU0lJT1NjTkdlY1ZuWlJleVd5dFNveVJMeEVDSHhERWVIaHJybU1RbDJldlpfSXp0X2NlS2lvSU5BWFdpX1VRbnBSRW5ZanUtbVNENXh0UWlPOG56S3ZpM0tEcnBwMTVySkZ3TFhuYkFnU1RRWDFYNVByU2hKdTZDUmoydkZ1UlExN3psWG9VRGtDWEpCUmQ0TGR2X0toZEhYNV9vOXRUT1ZWXzQ4SzRwaFV4dXhMNVkzX3dqdVAtNmk3MDVQbTZDTkNvb0ptdUVZVUlJdWxyMlJET1ZLSWhtelFleTZB?oc=5",
+      "published": "2026-11-14T03:45:43+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Cape Town inquiry spoke to all Aussie bowlers, ABC understands",
+    "summary": "Sources connected to the Australian bowling group say they all spoke to investigators as part of the inquiry into Cape Town ball tampering, which runs counter to claims by David Warner.",
+    "latest": "2026-11-14T03:44:22+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Cape Town inquiry spoke to all Aussie bowlers, ABC understands",
+      "link": "https://www.abc.net.au/news/2026-11-14/david-warner-cricket-australia-ball-tampering-investigation/107386252",
+      "published": "2026-11-14T03:44:22+00:00",
+      "summary": "Sources connected to the Australian bowling group say they all spoke to investigators as part of the inquiry into Cape Town ball tampering, which runs counter to claims by David Warner.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Man stabbed multiple times in Sydney CBD",
+    "summary": "",
+    "latest": "2026-11-14T03:25:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Man stabbed multiple times in Sydney CBD",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZF82dEY0U1B1Uno5TFFJR3Uwd3JjS29FVXBzaDUxYWFzWmtHcmw5Zng2bnhoTFdyTXFOVDd0OWZ1NkpybkkxVUdSd21FM2VzUl9CQVBXTXdqQ0VFNGV1ZVdoeUd3VGdzTEk5dVpjSkVKSmc3c1loZG5RVWJLMTktSmp6aTdwT3NCRng5ZXRUSGs1b1JoeGl5U0xmbUZVWXBBb0U1dFF3Rm5QTlF2MnE3UVhiR0cxTXZLdHkxemo5ekVMaVpiUUxPS0lPQktKYkJPMUxZUGp1MGdpaFU5OW54S0picjJPbFI5WE1ybQ?oc=5",
+      "published": "2026-11-14T03:25:00+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "'The line-up is huge': Australians caught up in US flight chaos",
+    "summary": "Thousands of flights have been delayed or cancelled across the US, leaving Australian travellers stranded at airports.",
+    "latest": "2026-11-14T03:24:57+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "'The line-up is huge': Australians caught up in US flight chaos",
+      "link": "https://www.abc.net.au/news/2026-11-14/australians-stranded-in-us-amid-flight-cancellations-chaos/107385998",
+      "published": "2026-11-14T03:24:57+00:00",
+      "summary": "Thousands of flights have been delayed or cancelled across the US, leaving Australian travellers stranded at airports.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Hauser ends stunning triathlon season with silver",
+    "summary": "Matt Hauser once more underlined his status as a genuine medal contender for the Los Angeles 2028 Olympics, as triathlon heralds a new era of racing.",
+    "latest": "2026-11-14T03:17:33+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Hauser ends stunning triathlon season with silver",
+      "link": "https://www.abc.net.au/news/2026-11-14/matt-hauser-silver-world-triathlon-championship-series-abu-dhabi/107386078",
+      "published": "2026-11-14T03:17:33+00:00",
+      "summary": "Matt Hauser once more underlined his status as a genuine medal contender for the Los Angeles 2028 Olympics, as triathlon heralds a new era of racing.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Greece’s Prime Minister Has Some Advice for the Rest of Europe",
+    "summary": "",
+    "latest": "2026-11-14T03:13:39+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Greece’s Prime Minister Has Some Advice for the Rest of Europe",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMkxVdFlVc0Jpb0owYVY2SWJRU2NsRUhlZUF3RnZZRjJPNFFHVVdjZE4xQ3lxZ0FlWmpTeExJOGFGaHVjZTVsTmxWQ1hob0p4U2NkTFR3SEpwdmJoREtzUTBXVmN2UjVjRVdUN1B4SHo5ejN5c1FBRE9JaFZ1S3lsMVo4dk5pbk9WY2JKMm9LeHlCZHF2cW5pZS1QYl8tTVVGSGRKUHlrYTJxeEZQMklFczhkWVlXcW9aRmpPMjhOMXdMdllRamw0eDRWZWhOOFZkdVNqTQ?oc=5",
+      "published": "2026-11-14T03:13:39+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "What we know so far about why US flights were grounded",
+    "summary": "Aviation authorities cited \"extraordinary circumstances and reasons of safety\", with the White House blaming outdated air traffic control technology for a communications outage.",
+    "latest": "2026-11-14T03:12:45+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "What we know so far about why US flights were grounded",
+      "link": "https://www.abc.net.au/news/2026-11-14/what-we-know-about-the-us-flight-groundstop/107385910",
+      "published": "2026-11-14T03:12:45+00:00",
+      "summary": "Aviation authorities cited \"extraordinary circumstances and reasons of safety\", with the White House blaming outdated air traffic control technology for a communications outage.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "'Plastic farmers' in Indonesia unaware of the dangers of burning waste",
+    "summary": "For decades, locals in East Java in Indonesia have been burning plastic waste but may not have been aware of the health consequences.",
+    "latest": "2026-11-14T03:05:18+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "'Plastic farmers' in Indonesia unaware of the dangers of burning waste",
+      "link": "https://www.abc.net.au/news/2026-11-14/plastic-farmers-in-indonesia-unaware-of-waste-burning-dangers/107274506",
+      "published": "2026-11-14T03:05:18+00:00",
+      "summary": "For decades, locals in East Java in Indonesia have been burning plastic waste but may not have been aware of the health consequences.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "The Townsville creatives making their own queer community",
+    "summary": "Townsville's queer culture is less visible than other aspects, but that is changing as more people are creating the communities they once had to leave regional Queensland to find.",
+    "latest": "2026-11-14T02:33:08+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "The Townsville creatives making their own queer community",
+      "link": "https://www.abc.net.au/news/2026-11-14/townsville-creatives-queer-community-writing/107106238",
+      "published": "2026-11-14T02:33:08+00:00",
+      "summary": "Townsville's queer culture is less visible than other aspects, but that is changing as more people are creating the communities they once had to leave regional Queensland to find.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Predicting weather in the Southern Hemisphere is challenging. Here's why",
+    "summary": "Weather forecasts in the Southern Hemisphere can be less accurate compared to the Northern Hemisphere. Despite advances in technology, there are still some gaps.",
+    "latest": "2026-11-14T02:21:19+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Predicting weather in the Southern Hemisphere is challenging. Here's why",
+      "link": "https://www.abc.net.au/news/science/2026-11-14/southern-hemisphere-forecasting-accuracy-atmospheric-rivers/107211984",
+      "published": "2026-11-14T02:21:19+00:00",
+      "summary": "Weather forecasts in the Southern Hemisphere can be less accurate compared to the Northern Hemisphere. Despite advances in technology, there are still some gaps.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "A friendship forged on the rugby league fields of New Zealand a century ago",
+    "summary": "It's been more than 100 years since Awhina and Rita's ancestors travelled from the rugby league fields of New Zealand to Australia.",
+    "latest": "2026-11-14T02:15:34+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "A friendship forged on the rugby league fields of New Zealand a century ago",
+      "link": "https://www.abc.net.au/news/2026-11-14/qld-nz-rugby-league-world-cup-fans/107379782",
+      "published": "2026-11-14T02:15:34+00:00",
+      "summary": "It's been more than 100 years since Awhina and Rita's ancestors travelled from the rugby league fields of New Zealand to Australia.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "US ‘ground stop’ lifted after 10,000 flights cancelled, delayed",
+    "summary": "",
+    "latest": "2026-11-14T02:11:53+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "US ‘ground stop’ lifted after 10,000 flights cancelled, delayed",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNck1pMGZLVDZpRlNqc2pJMG1aNHkxWWQ2bEZrOThJbnIxVGsxa0VobE5PeXZuYndUR1FHcVNrV3ZuVk9CZ1ZFTk45TkxxRFRNaDVRYVpPN1JNMmZlRDlwVTA2LXBLRm9RR0h5TXp1X01aZFdUSVVoU1hIYmVvTHVWRm1XWVN6YUZjZmx2dnVKMkUtT01tUktlT2l4bVlPb3NuaWQtVTBXSDlPWUloVjVTUzVsSzNBekVCNWlv?oc=5",
+      "published": "2026-11-14T02:11:53+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Democrats target Elon Musk in Ukraine Starlink probe",
+    "summary": "",
+    "latest": "2026-11-14T02:09:49+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Democrats target Elon Musk in Ukraine Starlink probe",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNS1CQ09yNHNQV18xZWZFdlVDeGREMXN0UktFeFdIMFAzQ0hwbDQ3Q3VUOUNMN1QwTDltOFVmdHVWQXAwZlVrekJ0MFBhcG9UbHRscGR6YTAyNUszOHJnSGloaGs5RnhXQ1pBaV9xQzlPQVdjcmNNMkpYUk1LTnpCZXBndFRRRS1sT0Z2V0w5VE42NG16aTB4MHRqakZCcHFzTnBVaUVENVM1Y0FwVzFzNU84bmlDUlZ1RDd5Mmg3cEZoSUY1Z05RaFBHMzNmWGQwVVRKaGc3R0J1WGhCT0hMSmJYY2NjRExhNXVGSEhSVzBTVUVBUWprVGRVVjhreXBWWE90ZTB6eVZZdThfTTRFLU53?oc=5",
+      "published": "2026-11-14T02:09:49+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Will Seitam",
+    "summary": "",
+    "latest": "2026-11-14T02:08:38+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Will Seitam",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2UV9jd0JQYlZVQjhVbVR3QzMzTHZhcG4zQ3RRdHdLQUtmUmJVdjdjS0ItNEtleWt0V1lORFZzc0JnOEhGOXUzRkF4Vkg5WU5weWxONWNGTEtOVlBHYVF0ek9jNUdTNzZITnc?oc=5",
+      "published": "2026-11-14T02:08:38+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Minns vows to open 100 long-day childcare centres if re-elected",
+    "summary": "The Minns government will open 100 new long-day childcare centres in areas where there is high demand and an under-supply of childcare services.",
+    "latest": "2026-11-14T02:06:58+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Minns vows to open 100 long-day childcare centres if re-elected",
+      "link": "https://www.abc.net.au/news/2026-11-14/nsw-long-day-childcare-centres-minns-government-election-promise/107385858",
+      "published": "2026-11-14T02:06:58+00:00",
+      "summary": "The Minns government will open 100 new long-day childcare centres in areas where there is high demand and an under-supply of childcare services.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "PearlBone gets FDA clearance for world's largest orthopaedic market",
+    "summary": "A bone graft substitute made from mother-of-pearl shells sourced off the WA's Kimberley coast receives FDA clearance in the United States. Academics say it is just one example of life-changing medical innovation from WA.",
+    "latest": "2026-11-14T02:06:28+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "PearlBone gets FDA clearance for world's largest orthopaedic market",
+      "link": "https://www.abc.net.au/news/2026-11-14/pearlbone-receives-us-fda-clearance-wa-research-milestone/107355146",
+      "published": "2026-11-14T02:06:28+00:00",
+      "summary": "A bone graft substitute made from mother-of-pearl shells sourced off the WA's Kimberley coast receives FDA clearance in the United States. Academics say it is just one example of life-changing medical innovation from WA.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Do Australians actually want cheaper housing? We're finding out fast",
+    "summary": "Is the housing market about affordability or wealth? The battle between those desperate for house prices to drop and those wanting to protect their investments is coming to the fore as Australia's housing market takes a dramatic turn.",
+    "latest": "2026-11-14T02:04:47+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Do Australians actually want cheaper housing? We're finding out fast",
+      "link": "https://www.abc.net.au/news/2026-11-14/do-australians-actually-want-cheaper-housing/107378812",
+      "published": "2026-11-14T02:04:47+00:00",
+      "summary": "Is the housing market about affordability or wealth? The battle between those desperate for house prices to drop and those wanting to protect their investments is coming to the fore as Australia's housing market takes a dramatic turn.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Topic | Redbridge-Accent poll | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-14T01:54:20+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Topic | Redbridge-Accent poll | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5rdWZVVWR2d3V0dEdMU3UtTHZTZkctZkFfbDlKLVBvZV9DLUlDX0pnNjk1bW5YV3puOFNhNEwwSUpLZTZxcE9JdDhZU01ycjBwLXpHSlNCX21vcFpTZHFlUGVR?oc=5",
+      "published": "2026-11-14T01:54:20+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "The AI Dividend",
+    "summary": "",
+    "latest": "2026-11-14T01:52:23+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "The AI Dividend",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04N3dtSkI2b084Z0RVaHhfUFM2VjF6eEd3SFlKLUJvakVib3dwU0hNemhSRENTdUo4MW5Lb0Z4aGlHNmpzclVmYmtGUGF6Ri1jajRnTWZ5QWdidw?oc=5",
+      "published": "2026-11-14T01:52:23+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "WSJ Opinion: Democrats Prepare for Leadership Battles in the House and Senate",
+    "summary": "",
+    "latest": "2026-11-14T01:50:39+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "WSJ Opinion: Democrats Prepare for Leadership Battles in the House and Senate",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYzAtaTNGNXVXN29HbW4zYktwMEs3b0ZUMnhWbEEyUnZRUVJfZHozT3pCX2NfZ2JIMzh3dGVQcXNVUFlXMm1uN2FvbXc4UXUzUWRtNEEzNGNtNjJMN0pweDlKMXloVGVCYUh0Q2s0Y1FIRVA4WGx3NjFyai1rZlFoQTl5N01WNDBwWGVjTHA3YXg4SkYtNGVJdDhzMERYZFJoNFFkYWd0amFVczdDUEJJWjlhd3llcTFSam9uZmFVM2N3c3hpdTRFWWRFMVBDeVZ2d2ZrUDUyVUVtbnFHUmJIcVZsd3JBbmgt?oc=5",
+      "published": "2026-11-14T01:50:39+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "SPYING SCANDAL: Conviction of two illegal migrants exposes deep UK security flaws",
+    "summary": "",
+    "latest": "2026-11-14T01:41:46+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "SPYING SCANDAL: Conviction of two illegal migrants exposes deep UK security flaws",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOemJUX2lXbUt2Ql81ZTdGS0ZFYzQ4QnlwVXJtN2xoWGY3eVJXcTZfcW9nbXB4ckE4WGRCT3lsN2lpaEtBWFNFcDE3S1NPVTk4S2JBb0tNU3ZPNG9LUld2ZHp4djFGeEFpd1g0dG5sRE0tUlVqVm1peUowcWpxQ0dvR3JjaFk2cWR1VU5BclhySUhhZU0zalQxZlQ2em5FNS03TTk3NGpnVmtaYkxiZzNDT1V4ODQ0Ml9ldFNxU05takV3ZTBhc1JQd19fZ3QxNGlPVHJjdWdVVml5cFRIQThxT0oxajZ4TnRxVkRHNjFKcWF6QlJlay1nT2RzWTI?oc=5",
+      "published": "2026-11-14T01:41:46+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Albanese, Bowen caught talking phones and 'dicks' in hot-mic gaffe",
+    "summary": "The prime minister's office says Anthony Albanese and Chris Bowen were sharing a joke when a private conversation was inadvertently recorded at the COP31 summit.",
+    "latest": "2026-11-14T01:34:20+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Albanese, Bowen caught talking phones and 'dicks' in hot-mic gaffe",
+      "link": "https://www.abc.net.au/news/2026-11-14/anthony-albanese-chris-bowen-hot-mic-gaffe-cop-31-climate-summit/107385964",
+      "published": "2026-11-14T01:34:20+00:00",
+      "summary": "The prime minister's office says Anthony Albanese and Chris Bowen were sharing a joke when a private conversation was inadvertently recorded at the COP31 summit.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+    "summary": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him Get our breaking news email , free app or daily news podcast In a Facebook video from a Sydney anti-immigration rally on Sunday,…",
+    "latest": "2026-11-14T01:00:30+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Stuart Bonds made ‘racist’ and ‘divisive’ comments. But One Nation is showing no sign of dumping the NSW candidate",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/14/one-nation-nsw-candidate-stuart-bonds-ntwnfb",
+      "published": "2026-11-14T01:00:30+00:00",
+      "summary": "The former coalminer’s claim Australians are being ‘demographically replaced’ sparked wide criticism, but his party has shown no signs of dumping him Get our breaking news email , free app or daily news podcast In a Facebook video from a Sydney anti-immigration rally on Sunday,…",
+      "source": "Guardian Australia",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Questions remain after Nvidia CEO's departure",
+    "summary": "While Jensen Huang's resignation puts an end to his long reign over Nvidia, questions about America's national security and Donald Trump's knowledge of the whole saga remain.",
+    "latest": "2026-11-14T00:52:34+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Questions remain after Nvidia CEO's departure",
+      "link": "https://www.abc.net.au/news/2026-11-14/questions-over-jensen-huang-affair-for-us-administration-nvidia/107382476",
+      "published": "2026-11-14T00:52:34+00:00",
+      "summary": "While Jensen Huang's resignation puts an end to his long reign over Nvidia, questions about America's national security and Donald Trump's knowledge of the whole saga remain.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Australia wins six Youth Olympics medals as African Games hailed",
+    "summary": "Australia has come away from the Youth Olympic Games in Senegal with six medals, as the IOC hails Africa's capability to host major multi--sport events.",
+    "latest": "2026-11-14T00:46:04+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Australia wins six Youth Olympics medals as African Games hailed",
+      "link": "https://www.abc.net.au/news/2026-11-14/youth-olympic-games-2026-senegal-six-medals/107385766",
+      "published": "2026-11-14T00:46:04+00:00",
+      "summary": "Australia has come away from the Youth Olympic Games in Senegal with six medals, as the IOC hails Africa's capability to host major multi--sport events.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Regional bands say it's now cheaper to do a gig in London than interstate",
+    "summary": "Some of the country's hottest musical exports say it's now cheaper to fly to London or the United States for gigs than to travel interstate to play for Australian audiences.",
+    "latest": "2026-11-14T00:28:33+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Regional bands say it's now cheaper to do a gig in London than interstate",
+      "link": "https://www.abc.net.au/news/2026-11-14/remote-flight-prices-nt-bands-yothu-yindi-king-stingray-touring/107381634",
+      "published": "2026-11-14T00:28:33+00:00",
+      "summary": "Some of the country's hottest musical exports say it's now cheaper to fly to London or the United States for gigs than to travel interstate to play for Australian audiences.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "WSJ Opinion: Iran Takes the War Beyond the Middle East",
+    "summary": "",
+    "latest": "2026-11-14T00:13:37+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "WSJ Opinion: Iran Takes the War Beyond the Middle East",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQa0xiNXAyRUo5TFVNWFBRZnltdVB4enVRMHFHdWlxYnh2VktiYTRral9jTjhYMGxxUmgzTm4yYk5FMjNTUWVUYnRCUl9WU2UyN0JuMXR1RVplanJXUzRxWEJwYVRkNTFPazJmMHhaMWt4THNsRVFyWE5lSWY0RzRIbHZ0Ump3bHpZRWd4WnU0Vzg3a1ZiTnoyM2JCVnJwUGc0NkRfR2NmeHZEOVZHQW93MmdVM3ZjaE5ueWZlTTRrbzdoNGE5SW9xUFV3?oc=5",
+      "published": "2026-11-14T00:13:37+00:00",
+      "summary": "",
+      "source": "The Australian",
+      "lean": "right-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Rope barriers at parliament round out prickly week for government",
+    "summary": "If the government wants to signal it's in touch with community concerns, walking through Hollywood-style velvet ropes and gold posts at parliament is probably not the best way to do it, writes Keane Bourke.",
+    "latest": "2026-11-14T00:13:11+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Rope barriers at parliament round out prickly week for government",
+      "link": "https://www.abc.net.au/news/2026-11-14/jags-krishnan-don-punch-woes-distract-wa-government/107382896",
+      "published": "2026-11-14T00:13:11+00:00",
+      "summary": "If the government wants to signal it's in touch with community concerns, walking through Hollywood-style velvet ropes and gold posts at parliament is probably not the best way to do it, writes Keane Bourke.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Litany of missed opportunities in Floreat murder tragedy",
+    "summary": "A coronial inquest into the deaths of Jennifer Petelczyc and daughter Gretl puts police errors under the microscope, and sees an apology from the gunman's daughter.",
+    "latest": "2026-11-14T00:05:46+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Litany of missed opportunities in Floreat murder tragedy",
+      "link": "https://www.abc.net.au/news/2026-11-14/missed-opportunities-floreat-shooting-inquest-jennifer-petelczyc/107384594",
+      "published": "2026-11-14T00:05:46+00:00",
+      "summary": "A coronial inquest into the deaths of Jennifer Petelczyc and daughter Gretl puts police errors under the microscope, and sees an apology from the gunman's daughter.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Afterpay co-founder Nick Molnar to leave Block after 13 years",
+    "summary": "",
+    "latest": "2026-11-14T00:02:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Afterpay co-founder Nick Molnar to leave Block after 13 years",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOW96UEFwRUlnSThTbjZaQklxd0ZmOHJ0SU5FSTB0OWhSTjBBb1B5SlJpd1JYa3NBXzNiUEJ5bUpmeDlRWFJjdWE1eWlqbHRfV3ZVNjdNZndkWEtMdnI2Q0JxVWhRN0NQaHNvV2g4Zm9DTXZYcWlONXIzbjRGZkoyRlpobW1NaGFkamRjRTlTUW5rdTdKelp6RUp5ekE5cUJJX0ZEUmlOUXk4T3lqUC04VA?oc=5",
+      "published": "2026-11-14T00:02:00+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Fatal house fire near Geelong draws attention to undelivered fire station",
+    "summary": "A man has died in a house fire in a suburb in outer Geelong that does not have a local fire station, despite one being promised by the Victorian government.",
+    "latest": "2026-11-13T23:52:23+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Fatal house fire near Geelong draws attention to undelivered fire station",
+      "link": "https://www.abc.net.au/news/2026-11-14/man-dead-armstrong-creek-house-fire-geelong/107385832",
+      "published": "2026-11-13T23:52:23+00:00",
+      "summary": "A man has died in a house fire in a suburb in outer Geelong that does not have a local fire station, despite one being promised by the Victorian government.",
+      "source": "ABC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "- AFR",
+    "summary": "",
+    "latest": "2026-11-13T23:46:40+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "- AFR",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaFhJTmlaaWNxajEtcFYzWkROQUxoNHRab3JCUkoyZlc0d2JlWGp3Vm85MnNCQUh3c0w1MkVqNWg3dWxJVWhmVC1qMTl0NDJMaFlBZXBnRXVqcEh6YTFCOF9NQTh4aTM2VmxBR2gtZ0FlWTZDbm91VVotbVB2UzNkZmw2d21PN3g1cUF3akVETUZpeFlZdElweTRvUldDZjhBUkNZMUF2RHY2eXYtT0xYS1loMVhqdDBZT01wZTlLbS1qWlNWbVY3OWtuLTVKVVlEOTlGUEl3RQ?oc=5",
+      "published": "2026-11-13T23:46:40+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Compost your cutlery and avoid campsite ‘Armageddon’: how music festivals are going sustainable",
+    "summary": "Warmer weather in Australia heralds the peak of the outdoor music and festival season. Compared with securing a ticket, reducing your festival footprint is easy Change by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon…",
+    "latest": "2026-11-13T23:00:28+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Compost your cutlery and avoid campsite ‘Armageddon’: how music festivals are going sustainable",
+      "link": "https://www.theguardian.com/australia-news/2026/nov/14/change-by-degrees-how-australian-music-festivals-are-going-sustainable",
+      "published": "2026-11-13T23:00:28+00:00",
+      "summary": "Warmer weather in Australia heralds the peak of the outdoor music and festival season. Compared with securing a ticket, reducing your festival footprint is easy Change by degrees offers life hacks and sustainable living tips each Saturday to help reduce your household’s carbon…",
+      "source": "Guardian Australia",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Street photography through an Australian lens – in pictures",
+    "summary": "From a sleepy restaurant to a climbing leopard, the Australian Street Photography awards celebrate the best contemporary street photos taken by Australians. Twenty-five finalists have been selected by an independent jury through Aussie Street, a platform for photographers. The…",
+    "latest": "2026-11-13T23:00:27+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Street photography through an Australian lens – in pictures",
+      "link": "https://www.theguardian.com/artanddesign/gallery/2026/nov/14/australian-street-photography-awards-gallery",
+      "published": "2026-11-13T23:00:27+00:00",
+      "summary": "From a sleepy restaurant to a climbing leopard, the Australian Street Photography awards celebrate the best contemporary street photos taken by Australians. Twenty-five finalists have been selected by an independent jury through Aussie Street, a platform for photographers. The…",
+      "source": "Guardian Australia",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Topic | Commonwealth Bank Australia | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-13T22:26:22+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Topic | Commonwealth Bank Australia | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBObDhwMUN3WEhfZFRVa1hreExVeGVlYjRDdHpSU2syaHBUaGwyUzRNZU1JMU8xa29uZlVlZmFNQzhMYmd0QnpPejZpRDZXYjhRS3BLUUhNcHk1a2VjbUVodVcyNWJrMmlXeVE?oc=5",
+      "published": "2026-11-13T22:26:22+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Middle East | Latest News & Analysis | The Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-13T22:03:21+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Middle East | Latest News & Analysis | The Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5teW1hYms2U3BtSl9zVkxGdWJ2dzBSQ3VvWUNuelRQdXp6dG81NTJMX0JBN1BpY0FtWEFJMGJ6TkNrVVA4SlFnT0ZYU1lPZw?oc=5",
+      "published": "2026-11-13T22:03:21+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "People | Alex Waislitz News, Features and Galleries | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-13T21:35:18+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "People | Alex Waislitz News, Features and Galleries | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9fcDRVVjdXSE5zblRTa0phRW5mQzVkQ1pmSkhIb0JVRUIzNXd6NmRldWktNnljckNQQXFXN2ZqTTRVN29HVUFETEczVzVacjZBVGl5MTR4YnRyVHVGQmJMRXREUmR2aVZpTVZr?oc=5",
+      "published": "2026-11-13T21:35:18+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Stocks sway as Wall Street heads for a winning week despite turbulence",
+    "summary": "",
+    "latest": "2026-11-13T20:51:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Stocks sway as Wall Street heads for a winning week despite turbulence",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQa29BdmsxUzg3Zk9pVW1KRHJjRFZIeWduOUNHUWdOckFJdmdMRVBGcXZmcEpKcjgzNTl4SlhpQlRmUTJUY0hVU1ZGRVU0dnNzOERONnRfb3pCTUg0SHdJQVgxVjQ3TjlIY21SQi1vZXBhV0dnTk9EMXR2UHJOQXRWeFVEQzdzTlpDYTNITkNTNE9SSjBYcnROY1VQT1hra1QyOU1YaFVDWmIxM2xqUUdMblo1QnhaODEzY2kxQXVPMmh0X0ZCR1JYYg?oc=5",
+      "published": "2026-11-13T20:51:00+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Why Australia’s ultra-rich are bankrolling skateboarding and triathlons",
+    "summary": "",
+    "latest": "2026-11-13T20:35:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Why Australia’s ultra-rich are bankrolling skateboarding and triathlons",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM3Z0Vzk4eE90VHp5c0lBUjJvVEgtRmFXY3BYZVN5SGo3aFZEUkQtUE5mY19KdTgyYm4zaHptRTNORUZlNXRGZE5qSF9oTE4xY1pYUDY5Zzl5dDhWUW5fUVRHcmYtM1dvSUU4cEtjVmo2TkZ6cklxdGpsc0swZE9yVGZBTVhDNlpDaDV1ODRsTWZoYXRwcXVmX1RvQWdCTG5jTzNIanczbTZVb3FfdnotdmFaMVg?oc=5",
+      "published": "2026-11-13T20:35:00+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Topic | Corrections | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-13T20:07:34+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Topic | Corrections | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qNjQ1TXkyUFRZdjRJYUJMaTFsTl94WHViODBwSXBUQ3hUWjNJRE51UWs2ME1RLW12UVVYM3hlaTdjZk9fUU1FWGlveEFQNmZmcE9Z?oc=5",
+      "published": "2026-11-13T20:07:34+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Appendix 2A - Application for quotation of securities",
+    "summary": "",
+    "latest": "2026-11-13T19:55:39+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Appendix 2A - Application for quotation of securities",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFJ2OUtNUTRhN3BKYmFyek5IMVNiV3FxOU9STnFhUHZwc2ttYmFrV1RNQURBR0UxM2JtS21OZzlKSXZTd2c5TXd4RkJkRm1WZjZza1RTYi1QMWFyY0dVRlRqTkxFa2RoUUNvb1Y5UVhCUDh3TE54REZ2eHpvV2I0aEdybWZsUXVuV1JFUFRFUQ?oc=5",
+      "published": "2026-11-13T19:55:39+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Microsoft’s global outage eases after disrupting businesses, governments",
+    "summary": "",
+    "latest": "2026-11-13T19:17:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Microsoft’s global outage eases after disrupting businesses, governments",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbWJVdDRzcDZ0MW93eExQRC12RmpiU1IwQTRhMXJhTUN2dVFpaHY3eVdCeXAwRHJxWUpadUtMVDkydkNqY3Y4djZIWjdQOU4xUzF4ZTFVVE9WbmpPaDFla1pITHBQR2lhOTFialBBdDNzZDI5b3BMbFNISzR2QjVDamVmbk1OZHFuMmRCUTFPcjlyVTA?oc=5",
+      "published": "2026-11-13T19:17:00+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Life & Leisure international travel hot list 2027",
+    "summary": "",
+    "latest": "2026-11-13T18:00:53+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Life & Leisure international travel hot list 2027",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQU5vREdHZ292Um50b0FrWEtFYTFNdVJ0OTNld3licHV4dlQ2TEMza1d4dk81YzYyRy1MX3p2WXM4cmU0ZzVQM21rV0hjN3lZQWYyVndrMl9ZTlZ5VElkVW9DWnpvVFhxTVB3Um1ia2tVNUFSdGxQOWtKS2l6aTNMb0RVbGpmendoUkpJc05QNDVFUDZPVTc3ZkNDZ0tERUxxdkY1d2VpWGd6NnRyTWZB?oc=5",
+      "published": "2026-11-13T18:00:53+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "House prices up 10pc in some NSW towns as buyers seek affordable life",
+    "summary": "",
+    "latest": "2026-11-13T18:00:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "House prices up 10pc in some NSW towns as buyers seek affordable life",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONF96RURfYlQyeVRqNGN0c3pLVHZsdV8xWGh3MWVHRDlCTUhMV0xjS0s4MFc1Sy05YWlwc0FuNFpURF9qWlBjTFVXS2NWanJiLU15a09vR3N5a013UEplaGdRMlRNUmRKRFMxSzRwQTM2RzFQLTNCRzJGQlJhNW82N0Z1YnRkZUN0dUxzYjBnUkdtbjVrXzdWd1UtOFAtd3lLMjRwczJTMzFUV3Q3Z01pX0VnUFBfM3k5Y01yVVNBUlZlX09H?oc=5",
+      "published": "2026-11-13T18:00:00+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   }
+  ],
+  "world": [
+   {
+    "headline": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
+    "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now \"opened up,\"…",
+    "latest": "2026-11-14T07:11:00+00:00",
+    "source_count": 2,
+    "leans": {
+     "left": 1,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Thousands of flights canceled as airlines work to dig out from nationwide ground stop",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQzlDRHBLSTNHTHRtbnpudnNXdXZpYnpEQ1hhLVNrU3ZRM0xRNm9NcUx2NjRIVFVOQVJKWXZGZzZCZ0hTcEdjd1ppTkFIelBlc282aU05SS1YYU45WTNwRUx1RzBCX3hwNW9Ed20wQ1JmQ3hHVmFSUktDSjM1eklkYTFPN3FkWUR0V1pUSjRIMHk3MjJjX0VrSm8zaFJ6a2paSnRwNzVrQlZpZw?oc=5",
+      "published": "2026-11-14T07:11:00+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     },
+     {
+      "title": "US flights resume after nationwide ground stop lifted",
+      "link": "https://www.france24.com/en/americas/20261114-us-flights-resume-after-nationwide-ground-stop-lifted-aviation",
+      "published": "2026-11-14T02:35:48+00:00",
+      "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage. Transportation Secretary Sean Duffy said that US airspace was now \"opened up,\"…",
+      "source": "France 24",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Microsoft says all services 'fully recovered' after global outage",
+    "summary": "The tech giant confirmed on Saturday morning that all services have recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security…",
+    "latest": "2026-11-14T06:42:27+00:00",
+    "source_count": 2,
+    "leans": {
+     "left": 2,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Microsoft says all services 'fully recovered' after global outage",
+      "link": "https://www.france24.com/en/technology/20261114-microsoft-says-consumer-products-fully-recovered-business-services-improving",
+      "published": "2026-11-14T06:07:56+00:00",
+      "summary": "The tech giant confirmed on Saturday morning that all services have recovered ⁠across ‌Teams, Outlook, Copilot and ⁠other applications, ​ending a ‌global outage ‌that ​crippled online communications across businesses and ​governments ​for ​over 24 hours. The US homeland security…",
+      "source": "France 24",
+      "lean": "left-centre",
+      "reliability": "high"
+     },
+     {
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T06:42:27+00:00",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Salah breaks Egypt scoring record as Tunisia lose to Libya",
+    "summary": "Salah scored twice to take his international tally to 70 ​and surpass former captain Hossam Hassan’s record.",
+    "latest": "2026-11-14T06:33:57+00:00",
+    "source_count": 2,
+    "leans": {
+     "left": 1,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Salah breaks Egypt scoring record as Tunisia lose to Libya",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOanZyTDZYZG9Jdm52WklYTk56TzdFUEg0QWxjZU5LSEVEMV9tTHk5cXhoanRQVHdsLTh4S0N5bUdMSFFKOUJUd2trdEFpMTd3LVBYU1BmZG1yQ1lOTEVfMWpwUXd1d3kyYnhkQnh5eFBFS2FNeUlJMDdtSV9zU3M3cmFfLXZYTUVPWS1oWHVkRkNMLTBvcGZpV3JBeDZFVnNzNjJ0aA?oc=5",
+      "published": "2026-11-13T23:25:43+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     },
+     {
+      "title": "Salah breaks Egypt scoring record, Tunisia lose to Libya in AFCON qualifier",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/mohamed-salah-egypt-goals-record-africa-cup-of-nations-afcon-2027-qualifiers?traffic_source=rss",
+      "published": "2026-11-14T06:33:57+00:00",
+      "summary": "Salah scored twice to take his international tally to 70 ​and surpass former captain Hossam Hassan’s record.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+    "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+    "latest": "2026-11-14T04:41:11+00:00",
+    "source_count": 2,
+    "leans": {
+     "left": 2,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T15:42:52+00:00",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     },
+     {
+      "title": "German spies granted sweeping new powers",
+      "link": "https://www.aljazeera.com/news/2026/11/14/german-spies-granted-sweeping-new-powers?traffic_source=rss",
+      "published": "2026-11-14T04:41:11+00:00",
+      "summary": "Parliament passes legislation months after a thwarted attack at Leipzig-Halle airport, which Berlin linked to Russia.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "FAA lifts nationwide ground stop on all US flights",
+    "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.",
+    "latest": "2026-11-14T03:32:07+00:00",
+    "source_count": 2,
+    "leans": {
+     "left": 2,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "FAA lifts nationwide ground stop on all US flights",
+      "link": "https://www.france24.com/en/video/20261114-faa-lifts-nationwide-ground-stop-on-all-us-flights",
+      "published": "2026-11-14T02:50:21+00:00",
+      "summary": "The United States on Friday lifted an hours-long ground stop at the nation's airports, with top officials explaining that the disruption was not due to a cyberattack or a sweeping Microsoft outage.",
+      "source": "France 24",
+      "lean": "left-centre",
+      "reliability": "high"
+     },
+     {
+      "title": "FAA ground stop lifted: Why were US flights grounded, and what’s next?",
+      "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-lifted-why-were-us-flights-grounded-and-whats-next?traffic_source=rss",
+      "published": "2026-11-14T03:32:07+00:00",
+      "summary": "The FAA says nationwide ground stop disrupting thousands of US flights was caused by a telecommunications outage.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Tanker collides with cruise ship on Mississippi in New Orleans",
+    "summary": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
+    "latest": "2026-11-13T23:40:45+00:00",
+    "source_count": 2,
+    "leans": {
+     "left": 1,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Tanker collides with cruise ship on Mississippi in New Orleans",
+      "link": "https://www.dw.com/en/tanker-collides-with-cruise-ship-on-mississippi-in-new-orleans/a-79945080?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-13T21:31:00+00:00",
+      "summary": "A freighter collided with a cruise ship carrying around 130 people in New Orleans, causing the paddlewheel vessel to capsize. More than 30 people were hospitalized, but all passengers survived and were accounted for.",
+      "source": "DW",
+      "lean": "centre",
+      "reliability": "high"
+     },
+     {
+      "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+      "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:40:45+00:00",
+      "summary": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+    "summary": "",
+    "latest": "2026-11-14T08:55:24+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Russia and Ukraine hold nearly 4 hours of US-mediated talks in Abu Dhabi",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWFsNkFITi02Z1V3NGtpMndYU1JJZ1RKOUNYWW9tbWJvcHRpdDAwNGJzQlg1bURIS2pzMXA0UWRNRF9WY25QM1ppRTR0T1lqRzNRSTlzanQyeUY2WC1uOFJWQ3Mwd3pyMVFQcl8zTkZZeERfSTJQQ0g4WXFlWmpvdlI5RzNFeDNnVUUtdnZsVURBN2JPMmpYSEJUa2pXOWM?oc=5",
+      "published": "2026-11-14T08:55:24+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+    "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
+    "latest": "2026-11-14T08:39:07+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Hungary seizes $18m cash tied to ex-Orban-era minister in probe",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/hungary-seizes-18m-cash-tied-to-ex-orban-era-minister-in-probe?traffic_source=rss",
+      "published": "2026-11-14T08:39:07+00:00",
+      "summary": "Anti-corruption authorities in Hungary say they found around $18 million in hidden cash.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Sudan: Misery worsens amid plummeting aid for displaced people",
+    "summary": "Sudan's humanitarian crisis is exacerbated by cuts in international aid. Almost 34 million people are in need as war and drone strikes are making it difficult to deliver aid to the population.",
+    "latest": "2026-11-14T08:31:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Sudan: Misery worsens amid plummeting aid for displaced people",
+      "link": "https://www.dw.com/en/sudan-misery-worsens-amid-plummeting-aid-for-displaced-people/a-79938864?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-14T08:31:00+00:00",
+      "summary": "Sudan's humanitarian crisis is exacerbated by cuts in international aid. Almost 34 million people are in need as war and drone strikes are making it difficult to deliver aid to the population.",
+      "source": "DW",
+      "lean": "centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
+    "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
+    "latest": "2026-11-14T08:10:14+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+      "published": "2026-11-14T08:10:14+00:00",
+      "summary": "Former opener Warner was banned for a year for his involvement in the 2018 'Sandpapergate' incident in South Africa.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
+    "summary": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
+    "latest": "2026-11-14T08:01:23+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
+      "published": "2026-11-14T08:01:23+00:00",
+      "summary": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
+    "summary": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
+    "latest": "2026-11-14T07:54:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Nigeria: How the pcoming elections are influeced by the rise of AI disinformation",
+      "link": "https://www.dw.com/en/nigeria-how-the-pcoming-elections-are-influeced-by-the-rise-of-ai-disinformation/a-79946897?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-14T07:54:00+00:00",
+      "summary": "As Nigeria inches closer to the 2027 polls, the use of artificial intelligence in the electoral process has prompted questions about integrity and institutional readiness. Can Nigerians trust their democratic processes?",
+      "source": "DW",
+      "lean": "centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Associated Press News: Breaking News | Latest News Today",
+    "summary": "",
+    "latest": "2026-11-14T07:50:01+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Associated Press News: Breaking News | Latest News Today",
+      "link": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+      "published": "2026-11-14T07:50:01+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+    "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
+    "latest": "2026-11-14T07:46:36+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+      "published": "2026-11-14T07:46:36+00:00",
+      "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "2026 U.S. House Election Results",
+    "summary": "",
+    "latest": "2026-11-14T07:45:17+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "2026 U.S. House Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
+      "published": "2026-11-14T07:45:17+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Missing Australian teenager reunites with his mother",
+    "summary": "A 17-year-old Australian teenager who went missing for six days has been reunited with his mother.",
+    "latest": "2026-11-14T07:44:46+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Missing Australian teenager reunites with his mother",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/missing-australian-teenager-reunites-with-his-mother?traffic_source=rss",
+      "published": "2026-11-14T07:44:46+00:00",
+      "summary": "A 17-year-old Australian teenager who went missing for six days has been reunited with his mother.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "2026 Maine Midterm Election Results",
+    "summary": "",
+    "latest": "2026-11-14T07:42:53+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "2026 Maine Midterm Election Results",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmcVNqTFVUcUU0YUtCXzQyT0FqMlp1TkhvVldOTGpGLUh5T3c3ZkZaTkpta0hHaXNaU0RsZ2Uxc1JvUG5ET3pSNzVKR2ZMRUpDSVV5N25ubW9oZWUtZ25YVG1ocllBT3h1?oc=5",
+      "published": "2026-11-14T07:42:53+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "What we know about the ground stop and what to do if you're affected",
+    "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+    "latest": "2026-11-14T07:42:11+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T07:42:11+00:00",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "2026 U.S. Senate Election Results",
+    "summary": "",
+    "latest": "2026-11-14T07:32:40+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "2026 U.S. Senate Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "published": "2026-11-14T07:32:40+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Espionage accusations: a pressure tactic for Turkish government critics",
+    "summary": "This week's arrest of an employee of a German foundation in Istanbul has put focus back on the Erdogan administration's pressure tactics. The arrest is far from the first of its kind.",
+    "latest": "2026-11-14T07:31:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Espionage accusations: a pressure tactic for Turkish government critics",
+      "link": "https://www.dw.com/en/espionage-accusations-a-pressure-tactic-for-turkish-government-critics/a-79943768?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-14T07:31:00+00:00",
+      "summary": "This week's arrest of an employee of a German foundation in Istanbul has put focus back on the Erdogan administration's pressure tactics. The arrest is far from the first of its kind.",
+      "source": "DW",
+      "lean": "centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "2026 Ohio Midterm Election Results",
+    "summary": "",
+    "latest": "2026-11-14T07:28:27+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "2026 Ohio Midterm Election Results",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoRXFabEpDYThvalh6ektrQXRqYldZRzNvMzFBRTFrZDlablN2aTRvWkdoQi1QdUx2Z0ZMTUVxQ3BFUk1XUFA3LTNGOWtfS1l0N2Nhd25TZlZkZzRiZEE1a0JwV0lNN2M?oc=5",
+      "published": "2026-11-14T07:28:27+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "2026 Governor Election Results",
+    "summary": "",
+    "latest": "2026-11-14T07:22:22+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "2026 Governor Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWHJqVGFrR1hzNVFwNjI1VVNqbzhXaWE4SVI5VEFYTDlSWllnY19Ha3E2WEFkMXRqaXludDhvUXVQaTR2NC1WeWFWNWpZQ3cwcWc0RXNTM3QtOFFKTGRLaTBENUNMXzlfd1RFUg?oc=5",
+      "published": "2026-11-14T07:22:22+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
+    "summary": "Netherlands' 7-0 annihilation of Greece means the Germans will likely need to win on Monday to reach the quarterfinals.",
+    "latest": "2026-11-14T07:19:20+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/reijnders-hattrick-netherlands-germany-uefa-nations-league-football?traffic_source=rss",
+      "published": "2026-11-14T07:19:20+00:00",
+      "summary": "Netherlands' 7-0 annihilation of Greece means the Germans will likely need to win on Monday to reach the quarterfinals.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Protesters heckle Hakeem Jeffries at Democratic conference",
+    "summary": "US House Minority Leader Hakeem Jeffries faced repeated heckling at a Democratic conference in Denver.",
+    "latest": "2026-11-14T07:18:53+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Protesters heckle Hakeem Jeffries at Democratic conference",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/protesters-heckle-hakeem-jeffries-at-democratic-conference?traffic_source=rss",
+      "published": "2026-11-14T07:18:53+00:00",
+      "summary": "US House Minority Leader Hakeem Jeffries faced repeated heckling at a Democratic conference in Denver.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Live: France mobilises in fifth wave of student protests",
+    "summary": "Between 50 and 60 marches are expected in France on Saturday, according to Interior Minister Laurent Nuñez, who plans to mobilise approximately 70,000 police officers and gendarmes across the country. In Paris, the march will commence at 1pm from Place de la République heading…",
+    "latest": "2026-11-14T07:09:32+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Live: France mobilises in fifth wave of student protests",
+      "link": "https://www.france24.com/en/france/20261114-live-france-mobilises-in-fifth-wave-of-student-protests",
+      "published": "2026-11-14T07:09:32+00:00",
+      "summary": "Between 50 and 60 marches are expected in France on Saturday, according to Interior Minister Laurent Nuñez, who plans to mobilise approximately 70,000 police officers and gendarmes across the country. In Paris, the march will commence at 1pm from Place de la République heading…",
+      "source": "France 24",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend",
+    "summary": "",
+    "latest": "2026-11-14T07:00:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "FAA grounds flights nationwide, disrupting NBA, NHL and college football travel for the weekend",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVUkzUkUtOXFKRWc1dS14cHgwQzhLclZFZjNzZFJkb3R2X0JDSlJaYnR5bE1QbHhtZjhtWDZVN3VaNkNISUtqdkFtUktDMHJ3RHdEajZFLUF4RFdfTm5MaXZzRjJFRXR6UTBYcXVndGtwOGlVbHlLYXd5eFc0THc2d0ZWSUhSaGVjekE?oc=5",
+      "published": "2026-11-14T07:00:00+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "2026 Arizona Midterm Election Results",
+    "summary": "",
+    "latest": "2026-11-14T06:58:49+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "2026 Arizona Midterm Election Results",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXZmpsZ3hhUzB4QUo1cVdmaGFCWTZTR2lhN3NRNzFFZDNaSXI2RGJxYzBwTy1SYVNFZ3VKUFZnMS1RSE9rTG01dkZFY1R4dHNHU2VLUTVCeHJYM1J4d2FBS1g3VGxySklybkZv?oc=5",
+      "published": "2026-11-14T06:58:49+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "The ANC’s implosion was decades in the making",
+    "summary": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
+    "latest": "2026-11-14T06:52:40+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "The ANC’s implosion was decades in the making",
+      "link": "https://www.aljazeera.com/opinions/2026/11/14/the-ancs-implosion-was-decades-in-the-making?traffic_source=rss",
+      "published": "2026-11-14T06:52:40+00:00",
+      "summary": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
+    "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
+    "latest": "2026-11-14T06:48:14+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Southeast Asian leaders to meet as Trump visit highlights trade disruption",
+      "link": "https://www.aljazeera.com/economy/2026/11/14/southeast-asian-leaders-to-meet-as-trump-visit-highlights-trade-disruption?traffic_source=rss",
+      "published": "2026-11-14T06:48:14+00:00",
+      "summary": "ASEAN summit comes as US president embarks on Asia trip that will see him meet China's Xi.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Ukraine is running out of options, and Russia knows it",
+    "summary": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
+    "latest": "2026-11-14T06:39:09+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Ukraine is running out of options, and Russia knows it",
+      "link": "https://www.aljazeera.com/opinions/2026/11/14/ukraine-is-running-out-of-options-and-russia-knows-it?traffic_source=rss",
+      "published": "2026-11-14T06:39:09+00:00",
+      "summary": "The Abu Dhabi talks reveal Moscow’s growing leverage over Ukraine and a shifting Western approach to peace.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Colorado U.S. House Election Live Results 2026",
+    "summary": "",
+    "latest": "2026-11-14T06:30:25+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Colorado U.S. House Election Live Results 2026",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9HLVhOYUhxMDBrY2F6eUNZNkF3bDItVUNXUjRzZzhva3RBYmdhZmd4TU5McmtONnNjS3hnZ3BIU045MWN6SThBNnd4Vmttd3c5WUlaVzFacFg0V3FmcEJEQUIxaFp3WVFYRHc3MnlzbHhCMlVTVVhjeA?oc=5",
+      "published": "2026-11-14T06:30:25+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Tennis Scores, News & Stats",
+    "summary": "",
+    "latest": "2026-11-14T06:28:20+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Tennis Scores, News & Stats",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5",
+      "published": "2026-11-14T06:28:20+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
+    "summary": "",
+    "latest": "2026-11-14T06:26:32+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOElJSFBrTXp0cHBzTy1LMFh6T1lRM0NPNU9UMUNUaUNnc1pMNVdFQmdlQ2pjNFdGRjJFSGdwbzNnWDJSV1NMdEJ0MUVYS3d0N182Vjd3UzhyQlNzWGhvOW5PZzNIOVBmOGc2QlhFRmZGQmtncVFPa0lqOGNSVWxJRUstTnJGaGZod1BYTURWYkgwUXdT?oc=5",
+      "published": "2026-11-14T06:26:32+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Philippine court orders arrest of jailed, US-wanted celebrity preacher",
+    "summary": "Palace denies timing of warrant is linked to Trump’s visit to Manila next week.",
+    "latest": "2026-11-14T06:24:43+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Philippine court orders arrest of jailed, US-wanted celebrity preacher",
+      "link": "https://www.aljazeera.com/news/2026/11/14/philippine-court-orders-arrest-of-jailed-us-wanted-celebrity-preacher?traffic_source=rss",
+      "published": "2026-11-14T06:24:43+00:00",
+      "summary": "Palace denies timing of warrant is linked to Trump’s visit to Manila next week.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Siege fuels disease fears in Yemen’s Taiz",
+    "summary": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
+    "latest": "2026-11-14T06:17:27+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Siege fuels disease fears in Yemen’s Taiz",
+      "link": "https://www.aljazeera.com/news/2026/11/14/siege-fuels-disease-fears-in-yemens-besieged-taiz?traffic_source=rss",
+      "published": "2026-11-14T06:17:27+00:00",
+      "summary": "Health officials warn that falling numbers of recorded infections may conceal a worsening disease crisis in Taiz.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Canada, US make progress on trade deal, Carney says",
+    "summary": "",
+    "latest": "2026-11-14T06:16:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Canada, US make progress on trade deal, Carney says",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOFV4SHZzV0VocU4wQzJyTFVCSGRUTlVPVkpkRTJYOVN6cXM2TTQ2SEhOLUQ0bVNZTW1OZ0xQMEpJT2Y5ZzJMZFFzcUlmYVRBQXlmSEdSdlhkTDVoclMwcjlMcFVIYkNTVjBtQ2RfdjdIMTVqWVdrU1FmMHdIZFRNTXRUekVvVkZleXlmSVZvN19pTmRsU3l5WWRvMzdEdw?oc=5",
+      "published": "2026-11-14T06:16:00+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
+    "summary": "Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.",
+    "latest": "2026-11-14T06:14:09+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Could one daily pill narrow the diabetes treatment gap in the Global South?",
+      "link": "https://www.aljazeera.com/news/2026/11/14/could-one-daily-pill-narrow-the-diabetes-treatment-gap-in-the-global-south?traffic_source=rss",
+      "published": "2026-11-14T06:14:09+00:00",
+      "summary": "Globally, one in nine people lives with diabetes, as blockbuster injectable drugs begin making way for tablets instead.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Gen Z protests: Do Baby Boomers really have it better than young people?",
+    "summary": "Should young people in Germany be more worried about their future than Baby Boomers were in the 1980s and 1990s? Or should both generations take to the streets and protest together? DW checked the data.",
+    "latest": "2026-11-14T06:09:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Gen Z protests: Do Baby Boomers really have it better than young people?",
+      "link": "https://www.dw.com/en/gen-z-protests-do-baby-boomers-really-have-it-better-than-young-people/a-79918854?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-14T06:09:00+00:00",
+      "summary": "Should young people in Germany be more worried about their future than Baby Boomers were in the 1980s and 1990s? Or should both generations take to the streets and protest together? DW checked the data.",
+      "source": "DW",
+      "lean": "centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system",
+    "summary": "",
+    "latest": "2026-11-14T06:00:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Alaska voters reject ballot measure seeking to repeal open primaries, ranked voting system",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNHZxR0tjdTY5VnFOYTNrR2pnTENGQnZ5NUVQNDlSYmVuU1lOU2xwZllqRVVFUVI2Q181NFFpU3hjNEtNNHlGRFg3TUhabGJoX2k2VUJ4SmNldjBYNTdidlpjbGM0bklGZUk1S0dEVDN6U3VGRWpvMnZSX2ZzUHF5cEFqOEpmOEcydGliRnpjMjJMeVVkT044WHJJZWw?oc=5",
+      "published": "2026-11-14T06:00:00+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Goalkeeper Owono handed 12-match ban after De Miguel death",
+    "summary": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.",
+    "latest": "2026-11-14T05:59:49+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Goalkeeper Owono handed 12-match ban after De Miguel death",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/jesus-de-miguel-death-goalkeeper-owono-12-match-ban-collision-tenerife-andorra?traffic_source=rss",
+      "published": "2026-11-14T05:59:49+00:00",
+      "summary": "Owono and De Miguel ⁠collided during a Spanish second-tier match between FC Andorra and ​Tenerife on November 2.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+    "summary": "",
+    "latest": "2026-11-14T05:54:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Kreiss-Tomkins becomes first Democrat since 1998 elected governor in Alaska",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFlrazk1QlViSjJ3ZjlhblpyOXFxT1FWZTkxSVdxc0NweEtuLUk3NDh6RkRDb1I2MVJnbG5yUm9hcmxtaHZ2VGtOT3MyaUxkSVE4MDJwMzU2NS16N2F1Tk5RLUdtaDl4TWt5NkxIT3JYZHJONGFaX3RRbXY2SW04MUc3UjhGMG1wQWtIeG91Nl9CRXRvMkdTTA?oc=5",
+      "published": "2026-11-14T05:54:00+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+    "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+    "latest": "2026-11-14T05:52:31+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "link": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T05:52:31+00:00",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
+    "summary": "People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?",
+    "latest": "2026-11-14T05:51:42+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Paranoid or practical? Britain’s ‘Be Ready’ citizen campaign",
+      "link": "https://www.aljazeera.com/features/2026/11/14/paranoid-or-practical-britains-be-ready-citizen?traffic_source=rss",
+      "published": "2026-11-14T05:51:42+00:00",
+      "summary": "People in England and Wales are rushing to buy tinned goods and wind-up radios - but what's it all for?",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "US air travel thrown into chaos after nationwide ground stop halts flights",
+    "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
+    "latest": "2026-11-14T05:42:41+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "US air travel thrown into chaos after nationwide ground stop halts flights",
+      "link": "https://www.aljazeera.com/news/2026/11/14/faa-ground-stop-disrupts-nba-nhl-and-college-football-weekend-travel?traffic_source=rss",
+      "published": "2026-11-14T05:42:41+00:00",
+      "summary": "More than 1.5 million passengers face travel disruption as domestic and international airlines warn of knock-on delays.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Microsoft says consumer products services recovered; still monitoring enterprise services",
+    "summary": "",
+    "latest": "2026-11-14T05:40:47+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Microsoft says consumer products services recovered; still monitoring enterprise services",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5",
+      "published": "2026-11-14T05:40:47+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America",
+    "summary": "",
+    "latest": "2026-11-14T05:26:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOejU1WlA1TVEtUUMwTVd1Zmw1RGhkVmFXM3p0QUxSZDZINExaSWpOc1Z1dDJ4OER2Q19LTVdqT0ZKQ1FyTXJNdnptMURsOGhsOXM4clJhVjVQazFLNS1TTXppLV8yRXZQM2xPMEpOdGNVYzF4Vi15YkluSkt1dDRMNk1xZ1lMTzF5V1VlLWh3VmkxLXpXQzZNa29wTGw3VUJVMTloekpB?oc=5",
+      "published": "2026-11-14T05:26:00+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit",
+    "summary": "",
+    "latest": "2026-11-14T05:17:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "The Nvidia scandal is heightening America’s AI rivalry with China ahead of Trump’s visit",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOalY0LVRKSlZQVVJQeGZidU1VWFo0VXpuaGNQVTdST1Bfa3B0YXUyc1NjVVprRVlhTlhMZFlidzhkQ3pqbnFJRDc1aDhpYm5rRFkycV9vMzU3ckhlSTBIVXRSb2VoOVc4SVJjYjNFVlRrQ01UQmM4Sk9WcGFFUEdvbElmc1lWZlZ5UlhvQUNQV1paNWhsc2Fv?oc=5",
+      "published": "2026-11-14T05:17:00+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Latin Grammy Awards: The fashion, moments, winners and performances",
+    "summary": "",
+    "latest": "2026-11-14T05:15:45+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Latin Grammy Awards: The fashion, moments, winners and performances",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLUdWNjJsc1BWTC1ycV83cEN2S3d0Z3hoaW9Cc3FmTVN6dkJpUXpZNDdOSVI1MUh2ZjB6WVdmQ0pFN1I5anRJaXhXeUQ3a3dRT1Y0Qm9GU0ladWhHdmxsQjNpZXNZMTc4YmM3YjBRYXJiV25teHBCSG1IdC1hTTV4SlNjampqR0NfZlVSZ3Zja1h5ZE5fMkZZLVdjQlZkc3dKY0RR?oc=5",
+      "published": "2026-11-14T05:15:45+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Afghanistan News: Latest Afghanistan News Today",
+    "summary": "",
+    "latest": "2026-11-14T05:15:42+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Afghanistan News: Latest Afghanistan News Today",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nTTQ0S0wxbzlFb01wRWR3T3ZyanFaMWYtNXlLT0ROYlhPZWF5cF9SQTRTNzVTX1MweGVqcm5SWkF1VjBKWWN0ZzZB?oc=5",
+      "published": "2026-11-14T05:15:42+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage",
+    "summary": "",
+    "latest": "2026-11-14T05:15:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0RVLUUtOEhac3A3Mm9TT0FhM0FVY3RVS3ByZHF5MDZTQ3YyQ2xCSkV2WjJYQ19JdnhfNXlZa28yd2FVOW5TLXpCeVRSYUFzeENQcUpVRTQydnBQS2x0ekg2Y2hRR1VIanFtbzJBdy1GNXRkamRKQlIxX1ZKX0ZxMnZLSGEwR1JlRGpMeGNMREc4elFXeEtzaHFWb2l5Um8?oc=5",
+      "published": "2026-11-14T05:15:00+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
+    "summary": "",
+    "latest": "2026-11-14T04:57:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFBta25Rakd3c0VBM0NUWjJzbmV2ajZwTWRtUFVTcTVzZ2otRGo0cXZSWWV0MzNBSXdmMXNzdm9SU1d1blBBNnktRlNqQmcwVUVxQzhCNERGel9ETDBHZjJwb29IYmhGX2VPNm8xeGwwU0VNajFzZnpIM19lejBOVTZrRVVjb2t4SDh3emhSZHI?oc=5",
+      "published": "2026-11-14T04:57:00+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Trump, Xi and Putin to hold first three-way summit in China",
+    "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+    "latest": "2026-11-14T04:55:58+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Trump, Xi and Putin to hold first three-way summit in China",
+      "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-and-putin-to-hold-first-three-way-summit-in-china?traffic_source=rss",
+      "published": "2026-11-14T04:55:58+00:00",
+      "summary": "White House says Trump plans to discuss the Iran war and nuclear arms at a meeting on the sidelines of APEC next week.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "South Korea should not fear China's rise, foreign minister says",
+    "summary": "",
+    "latest": "2026-11-14T04:49:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "South Korea should not fear China's rise, foreign minister says",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbTFpNU1OeE1XUnRFajBJZDlmTll0dXZQamU1YTlIRnhMdjllNDJDVFJYYTFsaXB6YzNwQVRtRVdsMmNKd1dKbk94Ri14YjBCMFdDSzU1cWVuVTQ2SmpOb293RkhLYmtKWGlId3JJYVR3ODBCa1JrNF9pNFNIZ2ZJYmVKSlhBVXJpUFN1UzZ5SG9HcTFSV0huZnpRajBWWWpBU3daYXM3cmpLS3Vudnc?oc=5",
+      "published": "2026-11-14T04:49:00+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Lagos Art Week confronts history, identity and belonging",
+    "summary": "ART X Lagos celebrates Africa's heritage and contemporary creativity.",
+    "latest": "2026-11-14T04:46:01+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Lagos Art Week confronts history, identity and belonging",
+      "link": "https://www.aljazeera.com/news/2026/11/14/lagos-art-week-confronts-history-identity-and-belonging?traffic_source=rss",
+      "published": "2026-11-14T04:46:01+00:00",
+      "summary": "ART X Lagos celebrates Africa's heritage and contemporary creativity.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "2026 California Midterm Election Results",
+    "summary": "",
+    "latest": "2026-11-14T04:22:48+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "2026 California Midterm Election Results",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9Ha0poay11emY4V2pvcHFiV3pLbXNXWFVvd1o2bkZWOHRKNHIwSFg1Z1RuQjRaNWhLeTIwZTF2Vmx4OHMtaER3bFJmWjZjMHhpT3VUQ0lvRzVBUjRodlBrOW40MEVxNkl0TkVZLWdGTQ?oc=5",
+      "published": "2026-11-14T04:22:48+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "UN says Israeli policies worsened deadly impact of Gaza winter storm",
+    "summary": "The UN says Israel could have prevented death and destruction caused by the storm in Gaza had it allowed sufficient aid.",
+    "latest": "2026-11-14T04:12:15+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "UN says Israeli policies worsened deadly impact of Gaza winter storm",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_un-israeli-policies-worsened-gaza-storms-impact-131126?traffic_source=rss",
+      "published": "2026-11-14T04:12:15+00:00",
+      "summary": "The UN says Israel could have prevented death and destruction caused by the storm in Gaza had it allowed sufficient aid.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "ICC stops probe into alleged crimes by US troops in Afghanistan",
+    "summary": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
+    "latest": "2026-11-14T04:03:49+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "ICC stops probe into alleged crimes by US troops in Afghanistan",
+      "link": "https://www.aljazeera.com/news/2026/11/14/icc-stops-probe-into-alleged-crimes-by-us-troops-in-afghanistan?traffic_source=rss",
+      "published": "2026-11-14T04:03:49+00:00",
+      "summary": "The decision follows feuds between the United States and the Hague-based International Criminal Court.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Hockey",
+    "summary": "",
+    "latest": "2026-11-14T03:59:15+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Hockey",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiT190OG1mbGtQWWpfZnlSSl81THVndl94bW5hMUVrTDJrVll2RWRXTVBwcTFTV3hDb2t5bzlmMnh5S0U?oc=5",
+      "published": "2026-11-14T03:59:15+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Passengers wait as flights are delayed and canceled during US-wide ground stop, in photos",
+    "summary": "",
+    "latest": "2026-11-14T03:59:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Passengers wait as flights are delayed and canceled during US-wide ground stop, in photos",
+      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQld6Yjc2UkJBSEwtVmd4Z2ZUdktQbVU2WEtzUzVKbEtnLTg4d2FBdE1wUGVNRTBMVVhYMmF5eDZTX0RaRFg1RWQ3SWFONzZjbkhtazAwZms2ekpGb24xREJjQW40TjhkNTVqNEUwMmhRMFU4YUNWbnFIcXJOX0t0UE5zeWNkWnY1Z2ZlajlxX2J0d0tkZjl5cVFnY0NXMkNfTmFtRWlWYWpxemdXU2QyT29iUnJtM2VjUkFNRTFZVTd4cmtCRUx3ckM4SjcyVWlxZ0k3djc1RE9LWUEtUnJDQy13?oc=5",
+      "published": "2026-11-14T03:59:00+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "MLB | Latest News, Stats, and Scores",
+    "summary": "",
+    "latest": "2026-11-14T03:58:06+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "MLB | Latest News, Stats, and Scores",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
+      "published": "2026-11-14T03:58:06+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "NBA Scores & Daily News | NBA Stats, Scores & News Today",
+    "summary": "",
+    "latest": "2026-11-14T03:57:44+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+      "published": "2026-11-14T03:57:44+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Measles-associated deaths reach 10 in US after two more deaths reported",
+    "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
+    "latest": "2026-11-14T02:34:50+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+      "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+      "published": "2026-11-14T02:34:50+00:00",
+      "summary": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "SpaceX launches Starship rocket, fails to recover booster",
+    "summary": "SpaceX had planned to catch and later reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
+    "latest": "2026-11-14T02:24:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "SpaceX launches Starship rocket, fails to recover booster",
+      "link": "https://www.dw.com/en/spacex-launches-starship-rocket-fails-to-recover-booster/a-79946091?maca=en-rss-en-world-4025-rdf",
+      "published": "2026-11-14T02:24:00+00:00",
+      "summary": "SpaceX had planned to catch and later reuse both stages of its biggest rocket for the first time. But the booster exploded over the Gulf of Mexico, while the spacecraft continued into orbit.",
+      "source": "DW",
+      "lean": "centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+    "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+    "latest": "2026-11-14T01:47:36+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "link": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T01:47:36+00:00",
+      "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Tanker collision leaves riverboat passengers clinging to railings",
+    "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+    "latest": "2026-11-14T01:37:08+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Tanker collision leaves riverboat passengers clinging to railings",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+      "published": "2026-11-14T01:37:08+00:00",
+      "summary": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+      "source": "Al Jazeera English",
+      "lean": "left-centre",
+      "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Rubio assails international court in speech to conservative legal group",
+    "summary": "",
+    "latest": "2026-11-14T01:06:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Rubio assails international court in speech to conservative legal group",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblc1UEZaUHNzR0QzV051c0Nid3k2WWI3Y1RFNm00LW4wTm83X0Y5MlFRU29fZ0RvYnJFVURiMV96VS1HWmZnV1BkUW16MHJYdXdRbjJSOTJERzh5NXhiRGxjNUkwRDVwNjUxdHF3cXRKN21GNUVELWx2VHpMeHpUYjdjZWY3SFZ6QWs0MWh4cXFnUk1aMFMtT1NIMEl0VTJfcGFOalFvUG41ck5wczB3?oc=5",
+      "published": "2026-11-14T01:06:00+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "What we know about Chinese businesswoman Alice Huang",
+    "summary": "",
+    "latest": "2026-11-14T01:05:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "What we know about Chinese businesswoman Alice Huang",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNVlveUI2ekRqQWdDUnE5Rk9IR0hVQWdqVmNFam5oRWZXWVQ2UHBOZjV5NFhEYUszSnNuWkhfb3ltV1NSbFdteXRaaXhTMldYNDBHeVNCSkM3d3Z0Sm1VcnU1R2FMZnBYZHhKTGZVSXlRZVhMMjZIWkNSbFpWcm9fYkpzS0xvQ3JpWnpxcmR0OXdIVU1kZzBleEhXZllNTTNOS1ViSEUxa3FXbjQ?oc=5",
+      "published": "2026-11-14T01:05:00+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "US loses measles-free status after continued spread of the disease, WSJ reports",
+    "summary": "",
+    "latest": "2026-11-14T00:55:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "US loses measles-free status after continued spread of the disease, WSJ reports",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmxORmhpLU9PVHl1bVFzT1A5QVhUVU5FWTM5Uzl3WDRJeWFvUXJVNWJxcmp1T3A5T2Z3MmlTMjJLUmVuZVRxa1VFWVFPbFZ2TnFBRlpNU3ZqOUpzczBTTzBkRXVaZ01oZEU5WGM4SzQ1ZTlBeFh0YnlMbzgzNHN4VFpTc3BiYXJMVEdkUHdFWFZKYV9vZzhHMUV4MjV6WGZjRndHSFlUczFvV2FIcFdPeHpYSQ?oc=5",
+      "published": "2026-11-14T00:55:00+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+    "summary": "",
+    "latest": "2026-11-14T00:25:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
+      "published": "2026-11-14T00:25:00+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says",
+    "summary": "",
+    "latest": "2026-11-14T00:22:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Trump to raise nuclear-arms cuts with Putin, Xi on Thursday, White House says",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1dzUndCOE42aUFUazd4SFcxMFVWUTl6VmRVOE5QR0ZjNWRXY19qWTVuRUthUXhDS3UybmZnQmFHSHVRV20wdXJwTUlKUTlGVU42N1B4bkVwSjI4bkdJeG94aFpxX01NUTdyWUJOUVZHSHlXZkxGZXlsTWhjSmUwRXoyRklMekIycXlEUk1pM1NpNjJp?oc=5",
+      "published": "2026-11-14T00:22:00+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "New York sued over law requiring social media 'warning label'",
+    "summary": "",
+    "latest": "2026-11-14T00:09:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "New York sued over law requiring social media 'warning label'",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcUJmbE5nSlZ4T2NzTERlSm96TmRZbjdnbzR5MHE2dHBJZVl2OTltRVphRUJOcHpTdFI0MlV2VW5vamlHOVVpNTJWanhkX1ByUXk0M19sTXMtT29WU24xcHdUd3RseFotR1luM2Q0S1Q4V2VEWEdrLXgwaTNKS3M1dlpFNkt2cjFVa3ZfWkhhMFk0dlVtTHFCalNoWUNOX1ZEZHk4d1g2WFVHUmM2Q04zWVloaHlMV3NnTmc?oc=5",
+      "published": "2026-11-14T00:09:00+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+    "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+    "latest": "2026-11-14T00:03:56+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:03:56+00:00",
+      "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+    "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+    "latest": "2026-11-14T00:03:52+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+      "link": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:03:52+00:00",
+      "summary": "The 52-year-old general’s provocative posts and military threats have fuelled rumours of a dynastic succession.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Fed's Jefferson says he is taking his policy cues from inflation",
+    "summary": "",
+    "latest": "2026-11-14T00:03:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Fed's Jefferson says he is taking his policy cues from inflation",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
+      "published": "2026-11-14T00:03:00+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Setback for SpaceX Starship rocket's double-catch test",
+    "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+    "latest": "2026-11-14T00:01:01+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Setback for SpaceX Starship rocket's double-catch test",
+      "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-14T00:01:01+00:00",
+      "summary": "Elon Musk’s company aborted an attempted catch of the rocket’s booster - instead it came down in the ocean.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+    "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+    "latest": "2026-11-13T23:11:51+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "After a summer win, India's Gen Z protesters face a winter of uncertainty",
+      "link": "https://www.bbc.co.uk/news/articles/cq99e0z4vg1eo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:11:51+00:00",
+      "summary": "A new wave of youth dissent swept India this summer, fuelled by frustration and irreverent online satire.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "PODCAST: FAA issues ground stop, Nvidia and Microsoft latest, Pope returns home in Peru (Updated)",
+    "summary": "",
+    "latest": "2026-11-13T23:09:58+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "PODCAST: FAA issues ground stop, Nvidia and Microsoft latest, Pope returns home in Peru (Updated)",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRWJ3V2hTUXNWcFdGRV9VLUt5WjFuYjV2T1g4QVJKbmVmNXYxSXZnV0tDWWh6RWdpVnJVa0tjMGJ3UHJOaXg3T2diS1J1RTBMQTVhV2lENG40WDZPRzA4S3B2YWxBTW92Y3VqQ28tZTJsTUpLcW5mbVNWZ1JmQW9oNHE3bDFRaFVlOElVRVNjb3hDQk5fSEU4SFhDem9SSnVmcElxSQ?oc=5",
+      "published": "2026-11-13T23:09:58+00:00",
+      "summary": "",
+      "source": "Reuters",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+    "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+    "latest": "2026-11-13T23:00:31+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exevgql4qo?at_medium=RSS&at_campaign=rss",
+      "published": "2026-11-13T23:00:31+00:00",
+      "summary": "The scandal has cast a spotlight on Singapore's success as a chip hub - and a location for alleged illicit trade.",
+      "source": "BBC News",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "US flights resume gradually amid further cancellations",
+    "summary": "While flights in the United States started resuming on Saturday following the longest nationwide ground stop in 25 years, more than 2,000 flights have been cancelled as airlines work to return to normal operations. Nearly 6,000 flights were cancelled on Friday, with the incident…",
+    "latest": "2026-11-13T22:43:22+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "US flights resume gradually amid further cancellations",
+      "link": "https://www.france24.com/en/americas/20261113-us-air-travel-resumption-will-take-time-after-hours-long-stop",
+      "published": "2026-11-13T22:43:22+00:00",
+      "summary": "While flights in the United States started resuming on Saturday following the longest nationwide ground stop in 25 years, more than 2,000 flights have been cancelled as airlines work to return to normal operations. Nearly 6,000 flights were cancelled on Friday, with the incident…",
+      "source": "France 24",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "France secures thrilling Nations Championship victory over South Africa",
+    "summary": "France smashed world ⁠champions South ​Africa's hopes of lifting the first Nations Championship trophy on Friday, in a ​21-19 defeat for Les Bleus.",
+    "latest": "2026-11-13T22:39:21+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 1,
+     "centre": 0,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "France secures thrilling Nations Championship victory over South Africa",
+      "link": "https://www.france24.com/en/sport/20261113-france-hold-on-for-thrilling-nations-championship-win-over-south-africa",
+      "published": "2026-11-13T22:39:21+00:00",
+      "summary": "France smashed world ⁠champions South ​Africa's hopes of lifting the first Nations Championship trophy on Friday, in a ​21-19 defeat for Les Bleus.",
+      "source": "France 24",
+      "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   }
+  ],
+  "factcheck": []
+ },
+ "sources": [
+  {
+   "name": "AAP",
+   "region": "australia",
+   "lean": "centre",
+   "reliability": "very-high",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "name": "ABC News",
+   "region": "australia",
+   "lean": "left-centre",
+   "reliability": "high",
+   "ok": true,
+   "count": 25,
+   "error": null
+  },
+  {
+   "name": "SBS News",
+   "region": "australia",
+   "lean": "left-centre",
+   "reliability": "high",
+   "ok": true,
+   "count": 0,
+   "error": null
+  },
+  {
+   "name": "The Conversation AU",
+   "region": "australia",
+   "lean": "left-centre",
+   "reliability": "high",
+   "ok": true,
+   "count": 10,
+   "error": null
+  },
+  {
+   "name": "Guardian Australia",
+   "region": "australia",
+   "lean": "left-centre",
+   "reliability": "mostly-factual",
+   "ok": true,
+   "count": 14,
+   "error": null
+  },
+  {
+   "name": "The New Daily",
+   "region": "australia",
+   "lean": "left-centre",
+   "reliability": "mostly-factual",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "name": "news.com.au",
+   "region": "australia",
+   "lean": "right-centre",
+   "reliability": "mostly-factual",
+   "ok": false,
+   "count": 0,
+   "error": "ParseError: not well-formed (invalid token): line 40, column 1364"
+  },
+  {
+   "name": "Australian Financial Review",
+   "region": "australia",
+   "lean": "right-centre",
+   "reliability": "high",
+   "ok": true,
+   "count": 25,
+   "error": null
+  },
+  {
+   "name": "The Australian",
+   "region": "australia",
+   "lean": "right-centre",
+   "reliability": "mostly-factual",
+   "ok": true,
+   "count": 25,
+   "error": null
+  },
+  {
+   "name": "Reuters",
+   "region": "world",
+   "lean": "centre",
+   "reliability": "very-high",
+   "ok": true,
+   "count": 25,
+   "error": null
+  },
+  {
+   "name": "AP News",
+   "region": "world",
+   "lean": "centre",
+   "reliability": "very-high",
+   "ok": true,
+   "count": 25,
+   "error": null
+  },
+  {
+   "name": "BBC News",
+   "region": "world",
+   "lean": "left-centre",
+   "reliability": "high",
+   "ok": true,
+   "count": 24,
+   "error": null
+  },
+  {
+   "name": "DW",
+   "region": "world",
+   "lean": "centre",
+   "reliability": "high",
+   "ok": true,
+   "count": 13,
+   "error": null
+  },
+  {
+   "name": "NPR",
+   "region": "world",
+   "lean": "left-centre",
+   "reliability": "high",
+   "ok": true,
+   "count": 3,
+   "error": null
+  },
+  {
+   "name": "France 24",
+   "region": "world",
+   "lean": "left-centre",
+   "reliability": "high",
+   "ok": true,
+   "count": 24,
+   "error": null
+  },
+  {
+   "name": "Al Jazeera English",
+   "region": "world",
+   "lean": "left-centre",
+   "reliability": "mostly-factual",
+   "ok": true,
+   "count": 25,
+   "error": null
+  },
+  {
+   "name": "Wall Street Journal",
+   "region": "world",
+   "lean": "right-centre",
+   "reliability": "high",
+   "ok": true,
+   "count": 0,
+   "error": null
+  },
+  {
+   "name": "AAP FactCheck",
+   "region": "factcheck",
+   "lean": "centre",
+   "reliability": "very-high",
+   "ok": false,
+   "count": 0,
+   "error": "HTTPError: HTTP Error 404: Not Found"
+  },
+  {
+   "name": "RMIT FactLab",
+   "region": "factcheck",
+   "lean": "centre",
+   "reliability": "high",
+   "ok": true,
+   "count": 0,
+   "error": null
+  }
+ ]
+}
