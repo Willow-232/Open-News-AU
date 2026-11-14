@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T09:14:24.438534+00:00",
+ "generated": "2026-11-14T09:15:49.127218+00:00",
  "regions": {
   "australia": [
    {
@@ -233,6 +233,28 @@
     ]
    },
    {
+    "headline": "Sian Powell",
+    "summary": "",
+    "latest": "2026-11-14T08:34:20+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Sian Powell",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NMThLaU9HRmJyUmE2TEIxckxjdnEwU0ZhUjE3MFpvZkQ2T0kyQS1ITlVwMWZIZkwwWVhKT0hLN2hFWElIdmJrVXl6dnNPWUhhSDlN?oc=5",
+      "published": "2026-11-14T08:34:20+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
     "headline": "Escaped prisoner’s insane journey",
     "summary": "",
     "latest": "2026-11-14T08:31:42+00:00",
@@ -387,6 +409,28 @@
     ]
    },
    {
+    "headline": "Private Markets | Private Equity, Venture Capital and Private Credit News | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-14T07:58:16+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Private Markets | Private Equity, Venture Capital and Private Credit News | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hdFdXSzZoZTVwU09XNnBIU3MwTDl5dmIwZlZPNDRHODFnMzRxR1JyUEVCQnI5TGQ4bEN5Mlo0UFdGdXBmaDYyeExjWlFnbk04clJtNGNn?oc=5",
+      "published": "2026-11-14T07:58:16+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
     "headline": "Swans book prelim spot with bruising AFLW win over Cats",
     "summary": "",
     "latest": "2026-11-14T07:54:19+00:00",
@@ -409,6 +453,50 @@
     ]
    },
    {
+    "headline": "Topic | AFR Interviews | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-14T07:50:17+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Topic | AFR Interviews | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNSTJ2QXNPdUhkWnRMVklmeDYzUHFvNnBjb2RlSllyY1FwVHpFeE1LQ3BQQlZmY1JVczRmY3NDZkxndW1KRWh2Uk1LX214UkI5UV9pWllWVFA?oc=5",
+      "published": "2026-11-14T07:50:17+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Maani Truu",
+    "summary": "",
+    "latest": "2026-11-14T07:34:16+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Maani Truu",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KeGV2NG5FUmdjR0hXdVJnMWx4OHNhM2hoR3EwUldRQU1GNXdxeFZMdm02YUtBeTRTdEU4WGNHdURFa2I0RTVWbGd3X2hEeUlYZ2c?oc=5",
+      "published": "2026-11-14T07:34:16+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
     "headline": "Scientist predicts day world will end",
     "summary": "",
     "latest": "2026-11-14T07:33:24+00:00",
@@ -427,6 +515,28 @@
       "source": "news.com.au",
       "lean": "right-centre",
       "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Company | Bathla Group News, Analysis, Announcements, and Results | Australian Financial Review",
+    "summary": "",
+    "latest": "2026-11-14T07:22:09+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Company | Bathla Group News, Analysis, Announcements, and Results | Australian Financial Review",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1saDNWU3dVVV9LSVdWMkZaZ21KdWtXNUtIVENJWVMyWFQxZXE2Zks0SE9QYm5MZmtfWDRJYTBfdFpJdWxSZUR0S3pJWEs1MzZsc2tobThDV0s?oc=5",
+      "published": "2026-11-14T07:22:09+00:00",
+      "summary": "",
+      "source": "Australian Financial Review",
+      "lean": "right-centre",
+      "reliability": "high"
      }
     ]
    },
@@ -607,28 +717,6 @@
     ]
    },
    {
-    "headline": "Private Markets | Private Equity, Venture Capital and Private Credit News | Australian Financial Review",
-    "summary": "",
-    "latest": "2026-11-14T07:00:03+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 0,
-     "right": 1
-    },
-    "stories": [
-     {
-      "title": "Private Markets | Private Equity, Venture Capital and Private Credit News | Australian Financial Review",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9hdFdXSzZoZTVwU09XNnBIU3MwTDl5dmIwZlZPNDRHODFnMzRxR1JyUEVCQnI5TGQ4bEN5Mlo0UFdGdXBmaDYyeExjWlFnbk04clJtNGNn?oc=5",
-      "published": "2026-11-14T07:00:03+00:00",
-      "summary": "",
-      "source": "Australian Financial Review",
-      "lean": "right-centre",
-      "reliability": "high"
-     }
-    ]
-   },
-   {
     "headline": "Bat dominates ball as Victoria draw with WA in Shield",
     "summary": "",
     "latest": "2026-11-14T06:59:07+00:00",
@@ -735,28 +823,6 @@
       "source": "news.com.au",
       "lean": "right-centre",
       "reliability": "mostly-factual"
-     }
-    ]
-   },
-   {
-    "headline": "Topic | AFR Interviews | Australian Financial Review",
-    "summary": "",
-    "latest": "2026-11-14T06:52:03+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 0,
-     "right": 1
-    },
-    "stories": [
-     {
-      "title": "Topic | AFR Interviews | Australian Financial Review",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBNSTJ2QXNPdUhkWnRMVklmeDYzUHFvNnBjb2RlSllyY1FwVHpFeE1LQ3BQQlZmY1JVczRmY3NDZkxndW1KRWh2Uk1LX214UkI5UV9pWllWVFA?oc=5",
-      "published": "2026-11-14T06:52:03+00:00",
-      "summary": "",
-      "source": "Australian Financial Review",
-      "lean": "right-centre",
-      "reliability": "high"
      }
     ]
    },
@@ -910,50 +976,6 @@
       "summary": "",
       "source": "SBS News",
       "lean": "left-centre",
-      "reliability": "high"
-     }
-    ]
-   },
-   {
-    "headline": "Maani Truu",
-    "summary": "",
-    "latest": "2026-11-14T06:35:55+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 0,
-     "right": 1
-    },
-    "stories": [
-     {
-      "title": "Maani Truu",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KeGV2NG5FUmdjR0hXdVJnMWx4OHNhM2hoR3EwUldRQU1GNXdxeFZMdm02YUtBeTRTdEU4WGNHdURFa2I0RTVWbGd3X2hEeUlYZ2c?oc=5",
-      "published": "2026-11-14T06:35:55+00:00",
-      "summary": "",
-      "source": "Australian Financial Review",
-      "lean": "right-centre",
-      "reliability": "high"
-     }
-    ]
-   },
-   {
-    "headline": "Sian Powell",
-    "summary": "",
-    "latest": "2026-11-14T06:35:55+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 0,
-     "right": 1
-    },
-    "stories": [
-     {
-      "title": "Sian Powell",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5NMThLaU9HRmJyUmE2TEIxckxjdnEwU0ZhUjE3MFpvZkQ2T0kyQS1ITlVwMWZIZkwwWVhKT0hLN2hFWElIdmJrVXl6dnNPWUhhSDlN?oc=5",
-      "published": "2026-11-14T06:35:55+00:00",
-      "summary": "",
-      "source": "Australian Financial Review",
-      "lean": "right-centre",
       "reliability": "high"
      }
     ]
@@ -1391,28 +1413,6 @@
       "title": "Trump, Xi, Putin to hold historic meeting in China: White House",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPZ1k3dUI2TlptbWIwbFh2RVk3cXdMREtzaXdfdzJfNGhidlUtcEs1V0lpekNtZHRKSXFTelR0b21UZTFfRUFpc0dvOC1TbC1TQXFNUnQ3VnVqQVN1SUNwdlVjZnMtTmdzS01UVENma1F5SzVMR0Fyck85SlVERzZmUHRleG93UmxYWldCb2FuRDJYSUhsYlZYaUdiSXdzOWtpbFNpUEtQdi1PaHNMUjh2cDFEUUhaTDZ4Vm9FU18yRlZGZ2VtSDRmcjhvQlliSkRubHhBOHhJSGlUN1UtUHcwLUVFVkFPNFZSdHc?oc=5",
       "published": "2026-11-14T05:22:39+00:00",
-      "summary": "",
-      "source": "The Australian",
-      "lean": "right-centre",
-      "reliability": "mostly-factual"
-     }
-    ]
-   },
-   {
-    "headline": "Lyon helps lead NSW to victory",
-    "summary": "",
-    "latest": "2026-11-14T05:21:00+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 0,
-     "right": 1
-    },
-    "stories": [
-     {
-      "title": "Lyon helps lead NSW to victory",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSkNEOGpjSHZObmlsTWRDQ0RsU04yNnk2YVpVTnJKQzFNTlg5X3h4Z29BYXdZNkc1RUJaTWQ5UG9YbldlaE5nOFlCU3lKQUpLS0NpY2ZqZ2dOY24zRlBCT3JvVjlJTjlJNE82VGVoQXNfRi1IN1g2XzdiNDJDWl95VENIdFdDcUtWLXhfbU1xQS16ZGZTWkRJV3FOZ0YwYk4yZTNVd3FRWFZPZ0JhTVN3ZnR4RDd0eDg?oc=5",
-      "published": "2026-11-14T05:21:00+00:00",
       "summary": "",
       "source": "The Australian",
       "lean": "right-centre",
@@ -2036,6 +2036,50 @@
     ]
    },
    {
+    "headline": "Leadership Lessons From EY’s Former CEO",
+    "summary": "",
+    "latest": "2026-11-14T09:14:36+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Leadership Lessons From EY’s Former CEO",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaEVQX1BmdzR4UEREZUxZaFF5Wk5vUEliU2RvZnFybC1Qemp0X3FPT18zNGlXSWZ2cVF2TVJmQkEtOVJrRkpLbnN1UFlfam9mMy1VQ0VDRGhpUk9lQUxDdURMNkdBb0Fmd1cwaXFvbjhiVnE0OHR6ZnVrQjRONTY2Z3B3aGVLdw?oc=5",
+      "published": "2026-11-14T09:14:36+00:00",
+      "summary": "",
+      "source": "Wall Street Journal",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "Strategic Hiring: New Questions to Ask",
+    "summary": "",
+    "latest": "2026-11-14T09:14:20+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "Strategic Hiring: New Questions to Ask",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdnJUWXM2N2QwbG1Oa3ZPUlBsbHJzOFYzRTdTWlE2c3RjYTl1NHJTVWR4NHJYUU90S0w3Q0ZROG5QM01xV3JwZFRBVHJpUExMRjlwMW03Y3lvUnZkOE1RUHdONGVDeWZ1LWhScG5qNF95M3ZJM1gxeUJPc18xdVN6NV9zUHU?oc=5",
+      "published": "2026-11-14T09:14:20+00:00",
+      "summary": "",
+      "source": "Wall Street Journal",
+      "lean": "right-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
     "headline": "Jensen Huang Resigns, Nvidia Starts Search for Next CEO | What’s News for Nov. 12",
     "summary": "",
     "latest": "2026-11-14T09:12:34+00:00",
@@ -2234,6 +2278,28 @@
     ]
    },
    {
+    "headline": "2026 Governor Election Results",
+    "summary": "",
+    "latest": "2026-11-14T08:22:36+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "2026 Governor Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWHJqVGFrR1hzNVFwNjI1VVNqbzhXaWE4SVI5VEFYTDlSWllnY19Ha3E2WEFkMXRqaXludDhvUXVQaTR2NC1WeWFWNWpZQ3cwcWc0RXNTM3QtOFFKTGRLaTBENUNMXzlfd1RFUg?oc=5",
+      "published": "2026-11-14T08:22:36+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
     "headline": "Latin Grammy Awards: The fashion, moments, winners and performances",
     "summary": "",
     "latest": "2026-11-14T08:15:45+00:00",
@@ -2252,28 +2318,6 @@
       "source": "Reuters",
       "lean": "centre",
       "reliability": "very-high"
-     }
-    ]
-   },
-   {
-    "headline": "Once Upon a Farm Slashes Outlook Following ‘Tractor Wheels’ Recall",
-    "summary": "",
-    "latest": "2026-11-14T08:15:40+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 0,
-     "right": 1
-    },
-    "stories": [
-     {
-      "title": "Once Upon a Farm Slashes Outlook Following ‘Tractor Wheels’ Recall",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGwtWlRBZEJ4TWRWZXktcUhDbVZzWXBwcEI4Z0liSkkyU3ZRNjVqQ1I0T0RNSEg1bV9zaDJKaC11Qlg2YTRwdTNDY3FUVGoyZlA5U0ZwVVZ6YUhqY1k4NWRPeHRTVlEwbUJXR3Mxei1UTExKTUhBMldrVUlHYkxqMTV0ajI4MWgxNjZaaFFXVEdlTERUS01PVXQzcllOSFhxNjFZNzBVcW16YlVvN2V6Rg?oc=5",
-      "published": "2026-11-14T08:15:40+00:00",
-      "summary": "",
-      "source": "Wall Street Journal",
-      "lean": "right-centre",
-      "reliability": "high"
      }
     ]
    },
@@ -2410,6 +2454,28 @@
     ]
    },
    {
+    "headline": "2026 U.S. Senate Election Results",
+    "summary": "",
+    "latest": "2026-11-14T07:52:38+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "2026 U.S. Senate Election Results",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
+      "published": "2026-11-14T07:52:38+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
     "headline": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
     "summary": "'Situation cannot become new normal', says UN's Khaled Khiari, as Iran reports three more vessels hitting mines.",
     "latest": "2026-11-14T07:46:36+00:00",
@@ -2428,28 +2494,6 @@
       "source": "Al Jazeera English",
       "lean": "left-centre",
       "reliability": "mostly-factual"
-     }
-    ]
-   },
-   {
-    "headline": "2026 U.S. House Election Results",
-    "summary": "",
-    "latest": "2026-11-14T07:45:17+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 1,
-     "right": 0
-    },
-    "stories": [
-     {
-      "title": "2026 U.S. House Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "published": "2026-11-14T07:45:17+00:00",
-      "summary": "",
-      "source": "AP News",
-      "lean": "centre",
-      "reliability": "very-high"
      }
     ]
    },
@@ -2520,28 +2564,6 @@
     ]
    },
    {
-    "headline": "2026 U.S. Senate Election Results",
-    "summary": "",
-    "latest": "2026-11-14T07:32:40+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 1,
-     "right": 0
-    },
-    "stories": [
-     {
-      "title": "2026 U.S. Senate Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "published": "2026-11-14T07:32:40+00:00",
-      "summary": "",
-      "source": "AP News",
-      "lean": "centre",
-      "reliability": "very-high"
-     }
-    ]
-   },
-   {
     "headline": "Espionage accusations: a pressure tactic for Turkish government critics",
     "summary": "This week's arrest of an employee of a German foundation in Istanbul has put focus back on the Erdogan administration's pressure tactics. The arrest is far from the first of its kind.",
     "latest": "2026-11-14T07:31:00+00:00",
@@ -2608,28 +2630,6 @@
     ]
    },
    {
-    "headline": "2026 Governor Election Results",
-    "summary": "",
-    "latest": "2026-11-14T07:22:22+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 1,
-     "right": 0
-    },
-    "stories": [
-     {
-      "title": "2026 Governor Election Results",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZWHJqVGFrR1hzNVFwNjI1VVNqbzhXaWE4SVI5VEFYTDlSWllnY19Ha3E2WEFkMXRqaXludDhvUXVQaTR2NC1WeWFWNWpZQ3cwcWc0RXNTM3QtOFFKTGRLaTBENUNMXzlfd1RFUg?oc=5",
-      "published": "2026-11-14T07:22:22+00:00",
-      "summary": "",
-      "source": "AP News",
-      "lean": "centre",
-      "reliability": "very-high"
-     }
-    ]
-   },
-   {
     "headline": "Reijnders’ hat-trick fires Dutch to 7-0 rout of Greece, Germany beat Serbia",
     "summary": "Netherlands' 7-0 annihilation of Greece means the Germans will likely need to win on Monday to reach the quarterfinals.",
     "latest": "2026-11-14T07:19:20+00:00",
@@ -2670,28 +2670,6 @@
       "source": "Al Jazeera English",
       "lean": "left-centre",
       "reliability": "mostly-factual"
-     }
-    ]
-   },
-   {
-    "headline": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
-    "summary": "",
-    "latest": "2026-11-14T07:16:42+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 0,
-     "right": 1
-    },
-    "stories": [
-     {
-      "title": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lWUTNMTnpyanJUcWctaTM1TjBEajVySEdCRG9FTVVtNmFJYkdULXo1cll5Yi1UbVZRVmg2UmZBZkJESG1pelM1NHluMG1OVVI5Z3hkamRIU0xFVVZvd1Q5Ymdma3J6MFRoVWNMUS1HZlhXaThDWG16aGh3Zllfd0dkUlJrTnE4bVhYY2QyNW9Ha3VvV3Flb2RoYVFwazZBUWM0?oc=5",
-      "published": "2026-11-14T07:16:42+00:00",
-      "summary": "",
-      "source": "Wall Street Journal",
-      "lean": "right-centre",
-      "reliability": "high"
      }
     ]
    },
@@ -2762,28 +2740,6 @@
     ]
    },
    {
-    "headline": "2026 Arizona Midterm Election Results",
-    "summary": "",
-    "latest": "2026-11-14T06:58:49+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 1,
-     "right": 0
-    },
-    "stories": [
-     {
-      "title": "2026 Arizona Midterm Election Results",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXZmpsZ3hhUzB4QUo1cVdmaGFCWTZTR2lhN3NRNzFFZDNaSXI2RGJxYzBwTy1SYVNFZ3VKUFZnMS1RSE9rTG01dkZFY1R4dHNHU2VLUTVCeHJYM1J4d2FBS1g3VGxySklybkZv?oc=5",
-      "published": "2026-11-14T06:58:49+00:00",
-      "summary": "",
-      "source": "AP News",
-      "lean": "centre",
-      "reliability": "very-high"
-     }
-    ]
-   },
-   {
     "headline": "The ANC’s implosion was decades in the making",
     "summary": "Zuma squandered Mbeki’s gains, while Ramaphosa’s dithering turned the ANC’s promised renewal into a fight for survival.",
     "latest": "2026-11-14T06:52:40+00:00",
@@ -2802,6 +2758,28 @@
       "source": "Al Jazeera English",
       "lean": "left-centre",
       "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+    "summary": "",
+    "latest": "2026-11-14T06:49:33+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "The 31-Year-Old Trader Who Called Out Jensen Huang’s ‘China Problem’—and Shorted Nvidia",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPU3B0dEx6NFJNd3BrRERfNktKdUdWN3U2MWRFc29LNExfVWgxcXhQcHhMQ2otRFV0SVRnVmZRVENUVTR1ai11TzZCaVdfNmM4ay10VFRZOUplOHUzam9jbXJEZzJJRHZOcngwdUNFSHJPelVZaEs3M3NnOXhvQUt1XzVsOA?oc=5",
+      "published": "2026-11-14T06:49:33+00:00",
+      "summary": "",
+      "source": "Wall Street Journal",
+      "lean": "right-centre",
+      "reliability": "high"
      }
     ]
    },
@@ -2845,6 +2823,28 @@
       "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
       "source": "BBC News",
       "lean": "left-centre",
+      "reliability": "high"
+     }
+    ]
+   },
+   {
+    "headline": "U.K.’s Worst-Kept Secret: Who Was the Celebrity Accused of Preying on Teens",
+    "summary": "",
+    "latest": "2026-11-14T06:39:54+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 0,
+     "right": 1
+    },
+    "stories": [
+     {
+      "title": "U.K.’s Worst-Kept Secret: Who Was the Celebrity Accused of Preying on Teens",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQdkxrbUpCTDJ4ODkyc3pjY2o3RWk2enF1LWxndFlKNzlTTW14cEdTeGM1YUpwNlQ1U2xCeFlZYkN2ZTVnNHEzbzhJV21LVTN4bDBYMGhQTGNHR1dYZkg0N2UwX011YjNkdmx0TUxidU1SNUFsaGtLS1dtTmNBWTNGMHMwaW5kRy1oWnFnZk1vcXB3Z3BLUS1Vek96ZkRBeDhOU0FONEVqQkZLdUlyR3EzemZVVW1Zc3lxdG9Ddm01b3c2S0hJVXE0?oc=5",
+      "published": "2026-11-14T06:39:54+00:00",
+      "summary": "",
+      "source": "Wall Street Journal",
+      "lean": "right-centre",
       "reliability": "high"
      }
     ]
@@ -2894,28 +2894,6 @@
     ]
    },
    {
-    "headline": "Tennis Scores, News & Stats",
-    "summary": "",
-    "latest": "2026-11-14T06:28:20+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 1,
-     "right": 0
-    },
-    "stories": [
-     {
-      "title": "Tennis Scores, News & Stats",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5",
-      "published": "2026-11-14T06:28:20+00:00",
-      "summary": "",
-      "source": "AP News",
-      "lean": "centre",
-      "reliability": "very-high"
-     }
-    ]
-   },
-   {
     "headline": "With shifting Iran rhetoric following US elections, Trump leaves Mideast in limbo about path ahead",
     "summary": "",
     "latest": "2026-11-14T06:26:32+00:00",
@@ -2934,28 +2912,6 @@
       "source": "AP News",
       "lean": "centre",
       "reliability": "very-high"
-     }
-    ]
-   },
-   {
-    "headline": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar",
-    "summary": "",
-    "latest": "2026-11-14T06:25:54+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 0,
-     "right": 1
-    },
-    "stories": [
-     {
-      "title": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3EzbUZLMzVNX1JTTVVjTVYwOVhoR0JQMXlRWjh3WjA3OGlfRkhvek43Qk90UW1jeWVDOWZMa2djT0JlSnhoRUh3SXBtbWpRQ1Q5SkNJbnVhZHR5X2NsWTFLT0w4TG4tOEdXQlBVdG91RGp1aWFtNkxJN3NZYktEN1dRWWU3LWQ3MTJ3SjNKejBkc1Zsb3JTV3Myd2t5SnZEeHRaZQ?oc=5",
-      "published": "2026-11-14T06:25:54+00:00",
-      "summary": "",
-      "source": "Wall Street Journal",
-      "lean": "right-centre",
-      "reliability": "high"
      }
     ]
    },
@@ -3088,6 +3044,28 @@
       "source": "Al Jazeera English",
       "lean": "left-centre",
       "reliability": "mostly-factual"
+     }
+    ]
+   },
+   {
+    "headline": "Tennis Scores, News & Stats",
+    "summary": "",
+    "latest": "2026-11-14T06:13:30+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Tennis Scores, News & Stats",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1EbzBXMF9LTzNjVndrTjNjcVkwZFdxclRGRzFrVUFQcHJ2NXhUbDhCUnVFZzR5UHNSeGtsbmRxQTNDbkE?oc=5",
+      "published": "2026-11-14T06:13:30+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
      }
     ]
    },
@@ -3312,6 +3290,50 @@
     ]
    },
    {
+    "headline": "Hockey",
+    "summary": "",
+    "latest": "2026-11-14T05:34:29+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Hockey",
+      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiT190OG1mbGtQWWpfZnlSSl81THVndl94bW5hMUVrTDJrVll2RWRXTVBwcTFTV3hDb2t5bzlmMnh5S0U?oc=5",
+      "published": "2026-11-14T05:34:29+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "NBA Scores & Daily News | NBA Stats, Scores & News Today",
+    "summary": "",
+    "latest": "2026-11-14T05:27:54+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "NBA Scores & Daily News | NBA Stats, Scores & News Today",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBwMFNyak8wbjBIcmRoX2hyLUNMU3o2NzFoa3UtTFl4UUFQU18tWnVzUWxhZGsxRS1IRXFWdWhoVQ?oc=5",
+      "published": "2026-11-14T05:27:54+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
     "headline": "Huge crowds and low vaccination rates raise measles alarms as Pope Leo XIV visits South America",
     "summary": "",
     "latest": "2026-11-14T05:26:00+00:00",
@@ -3378,28 +3400,6 @@
     ]
    },
    {
-    "headline": "Afghanistan News: Latest Afghanistan News Today",
-    "summary": "",
-    "latest": "2026-11-14T05:15:42+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 1,
-     "right": 0
-    },
-    "stories": [
-     {
-      "title": "Afghanistan News: Latest Afghanistan News Today",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nTTQ0S0wxbzlFb01wRWR3T3ZyanFaMWYtNXlLT0ROYlhPZWF5cF9SQTRTNzVTX1MweGVqcm5SWkF1VjBKWWN0ZzZB?oc=5",
-      "published": "2026-11-14T05:15:42+00:00",
-      "summary": "",
-      "source": "AP News",
-      "lean": "centre",
-      "reliability": "very-high"
-     }
-    ]
-   },
-   {
     "headline": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage",
     "summary": "",
     "latest": "2026-11-14T05:15:00+00:00",
@@ -3414,6 +3414,28 @@
       "title": "Rock & Roll Hall of Fame induction set for Los Angeles, with many big names skipping the stage",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQX0RVLUUtOEhac3A3Mm9TT0FhM0FVY3RVS3ByZHF5MDZTQ3YyQ2xCSkV2WjJYQ19JdnhfNXlZa28yd2FVOW5TLXpCeVRSYUFzeENQcUpVRTQydnBQS2x0ekg2Y2hRR1VIanFtbzJBdy1GNXRkamRKQlIxX1ZKX0ZxMnZLSGEwR1JlRGpMeGNMREc4elFXeEtzaHFWb2l5Um8?oc=5",
       "published": "2026-11-14T05:15:00+00:00",
+      "summary": "",
+      "source": "AP News",
+      "lean": "centre",
+      "reliability": "very-high"
+     }
+    ]
+   },
+   {
+    "headline": "Iowa",
+    "summary": "",
+    "latest": "2026-11-14T05:14:00+00:00",
+    "source_count": 1,
+    "leans": {
+     "left": 0,
+     "centre": 1,
+     "right": 0
+    },
+    "stories": [
+     {
+      "title": "Iowa",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5jSUQ3cXJIb1gtaUVuTjVUcGpiQUpQQmc4MHhNblZhY2tPeU9HaHl2TFdzYUxqcnloc2RFM3FrYzk?oc=5",
+      "published": "2026-11-14T05:14:00+00:00",
       "summary": "",
       "source": "AP News",
       "lean": "centre",
@@ -3576,9 +3598,9 @@
     ]
    },
    {
-    "headline": "Hockey",
+    "headline": "Afghanistan News: Latest Afghanistan News Today",
     "summary": "",
-    "latest": "2026-11-14T03:59:15+00:00",
+    "latest": "2026-11-14T04:00:41+00:00",
     "source_count": 1,
     "leans": {
      "left": 0,
@@ -3587,9 +3609,9 @@
     },
     "stories": [
      {
-      "title": "Hockey",
-      "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBiT190OG1mbGtQWWpfZnlSSl81THVndl94bW5hMUVrTDJrVll2RWRXTVBwcTFTV3hDb2t5bzlmMnh5S0U?oc=5",
-      "published": "2026-11-14T03:59:15+00:00",
+      "title": "Afghanistan News: Latest Afghanistan News Today",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9nTTQ0S0wxbzlFb01wRWR3T3ZyanFaMWYtNXlLT0ROYlhPZWF5cF9SQTRTNzVTX1MweGVqcm5SWkF1VjBKWWN0ZzZB?oc=5",
+      "published": "2026-11-14T04:00:41+00:00",
       "summary": "",
       "source": "AP News",
       "lean": "centre",
@@ -3612,28 +3634,6 @@
       "title": "Passengers wait as flights are delayed and canceled during US-wide ground stop, in photos",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQld6Yjc2UkJBSEwtVmd4Z2ZUdktQbVU2WEtzUzVKbEtnLTg4d2FBdE1wUGVNRTBMVVhYMmF5eDZTX0RaRFg1RWQ3SWFONzZjbkhtazAwZms2ekpGb24xREJjQW40TjhkNTVqNEUwMmhRMFU4YUNWbnFIcXJOX0t0UE5zeWNkWnY1Z2ZlajlxX2J0d0tkZjl5cVFnY0NXMkNfTmFtRWlWYWpxemdXU2QyT29iUnJtM2VjUkFNRTFZVTd4cmtCRUx3ckM4SjcyVWlxZ0k3djc1RE9LWUEtUnJDQy13?oc=5",
       "published": "2026-11-14T03:59:00+00:00",
-      "summary": "",
-      "source": "AP News",
-      "lean": "centre",
-      "reliability": "very-high"
-     }
-    ]
-   },
-   {
-    "headline": "MLB | Latest News, Stats, and Scores",
-    "summary": "",
-    "latest": "2026-11-14T03:58:06+00:00",
-    "source_count": 1,
-    "leans": {
-     "left": 0,
-     "centre": 1,
-     "right": 0
-    },
-    "stories": [
-     {
-      "title": "MLB | Latest News, Stats, and Scores",
-      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTFBaTkhyRGJFdHFXZVFvanhPRFAxZmlEWjZWRDJxNWFVRzZGT2I1Zm1kNmVLLU9Henk1d2M5dFFDRQ?oc=5",
-      "published": "2026-11-14T03:58:06+00:00",
       "summary": "",
       "source": "AP News",
       "lean": "centre",
@@ -4465,7 +4465,7 @@
    "lean": "centre",
    "reliability": "very-high",
    "ok": true,
-   "count": 4,
+   "count": 8,
    "error": null
   },
   {
@@ -4501,7 +4501,7 @@
    "lean": "centre",
    "reliability": "very-high",
    "ok": true,
-   "count": 8,
+   "count": 10,
    "error": null
   }
  ]
