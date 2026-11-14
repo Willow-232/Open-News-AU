@@ -19,7 +19,7 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCES_FILE = ROOT / "sources.json"
 OUT_FILE = ROOT / "docs" / "news.json"
 
-MAX_AGE_HOURS = {"australia": 36, "world": 36, "factcheck": 24 * 7}
+MAX_AGE_HOURS = {"australia": 36, "world": 36, "factcheck": 24 * 14}
 MAX_PER_SOURCE = 25
 MAX_CLUSTERS = {"australia": 80, "world": 80, "factcheck": 30}
 RELIABILITY_RANK = {"very-high": 4, "high": 3, "mostly-factual": 2, "mixed": 1}
@@ -87,8 +87,21 @@ def entry_link(el):
     return ""
 
 
+def parse_xml(xml_bytes):
+    try:
+        return ET.fromstring(xml_bytes)
+    except ET.ParseError:
+        # Some publishers ship slightly broken XML (stray control characters or
+        # bare "&"). Clean those up and try once more.
+        text = xml_bytes.decode("utf-8", "replace")
+        text = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f]", "", text)
+        text = re.sub(r"&(?!(?:[a-zA-Z]+|#\d+|#x[0-9a-fA-F]+);)", "&amp;", text)
+        text = re.sub(r"^\s*<\?xml[^>]*\?>", "", text)
+        return ET.fromstring(text)
+
+
 def parse_feed(xml_bytes, source):
-    root = ET.fromstring(xml_bytes)
+    root = parse_xml(xml_bytes)
     items = []
     for el in root.iter():
         if local(el.tag) not in ("item", "entry"):
