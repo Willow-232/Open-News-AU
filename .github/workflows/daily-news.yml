@@ -1,8 +1,10 @@
-name: Daily news update
+name: News update
 
 on:
   schedule:
-    - cron: "0 20 * * *"
+    # Every hour, at 17 minutes past (GitHub is busiest on the hour, which delays runs).
+    # For every 2 hours use "17 */2 * * *"; for every 30 minutes use "17,47 * * * *".
+    - cron: "17 * * * *"
   workflow_dispatch: {}
   push:
     paths: ["sources.json", "scripts/**"]
@@ -29,5 +31,6 @@ jobs:
           git config user.name "news-bot"
           git config user.email "news-bot@users.noreply.github.com"
           git add docs/news.json
-          git diff --cached --quiet || git commit -m "Daily news update $(date -u +%Y-%m-%d)"
+          git diff --cached --quiet || git commit -m "News update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase --quiet
           git push
